@@ -1,0 +1,2163 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.2
+Class-Path: AppleJavaExtensions.jar jinput.jar lwjgl_util.jar lwjgl.ja
+ r lzma.jar macosx_natives.jar
+Created-By: 1.6.0_24-b07-334-10M3326 (Apple Inc.)
+Main-Class: net.minecraft.client.Minecraft
+
+Name: net/minecraft/world/level/chunk/storage/NbtSlotFile.class
+SHA1-Digest: GloAXqEa+py3L2B3rzyO/Cv1Sho=
+
+Name: com/mojang/nbt/ListTag.class
+SHA1-Digest: kmYJR5Wkq7kjVeZVp46AiQWpicM=
+
+Name: net/minecraft/world/entity/animal/Animal.class
+SHA1-Digest: r+4b/rkTG1WFGeTISLjYSXXu+Oo=
+
+Name: net/minecraft/client/model/LocalPlayerModel.class
+SHA1-Digest: q3aT8eWIS7T2u2XUo2lYrrlXcE8=
+
+Name: net/minecraft/world/level/tile/Tile$2.class
+SHA1-Digest: utyjHrAF8tP938NgNwIZXhG3l2w=
+
+Name: mob/spider.png
+SHA1-Digest: VfPrCa+PWJ8sbbk6togxQiGTDZo=
+
+Name: net/minecraft/world/level/levelgen/feature/FlowerFeature.class
+SHA1-Digest: tHfHdipWQSV84a2fVbJlIPtxiwE=
+
+Name: lang/en_US.lang
+SHA1-Digest: /ZIivoPBa5IySi3/y3RE+EYhr+g=
+
+Name: net/minecraft/network/packet/SetRidingPacket.class
+SHA1-Digest: cdvRA8IdmNGn/stDa738j0MOoyA=
+
+Name: com/jcraft/jorbis/Residue0$LookResidue0.class
+SHA1-Digest: Mv5UkQVLHwYk67CS846HBkEGrYA=
+
+Name: net/minecraft/world/level/tile/Sponge.class
+SHA1-Digest: zLPdgIP6p4SYLMD05kdDkRQPyjg=
+
+Name: net/minecraft/world/level/levelgen/feature/TreeFeature.class
+SHA1-Digest: V6MqJ6Izd1HllPLH6lO9J5XfeCE=
+
+Name: net/minecraft/client/gamemode/SecretBuilderInventory.class
+SHA1-Digest: 1zgzq0Mi5DtWbCvoiGPfWzJxor0=
+
+Name: net/minecraft/world/level/levelgen/RandomLevelSource.class
+SHA1-Digest: xWnHyucWAm/SRzEMYc1Joxitg8w=
+
+Name: net/minecraft/world/MouseInventoryClickHandler.class
+SHA1-Digest: EQiJo/pCIbfJ1HZ5Kny7XgDJTjw=
+
+Name: net/minecraft/client/BackgroundDownloader.class
+SHA1-Digest: Ae4xyZoIXrxwdgWoJUG3UpuTgaE=
+
+Name: net/minecraft/world/level/material/DecorationMaterial.class
+SHA1-Digest: Gi+a1IcCcrsF0htK1jvOgef/Hgs=
+
+Name: net/minecraft/client/multiplayer/DisconnectedScreen.class
+SHA1-Digest: ay1wKg/72cL+h5jc6T6me6r+2ro=
+
+Name: item/arrows.png
+SHA1-Digest: moAHRC2YmEi5jR+688Gvp1bSdS8=
+
+Name: net/minecraft/client/title/TitleScreen.class
+SHA1-Digest: Mk+idHWLWNKXfxGmNywV1JCPqsw=
+
+Name: net/minecraft/network/packet/RemoveEntityPacket.class
+SHA1-Digest: c9LbuJ89ai27k6n3mS0/70iI13Q=
+
+Name: net/minecraft/client/gamemode/CreativeMode.class
+SHA1-Digest: lK5zneNTlBgVVi3j1/zrEM6Rig8=
+
+Name: paulscode/sound/FilenameURL.class
+SHA1-Digest: w207bxWojDWdXS85+1erDsCkoD8=
+
+Name: net/minecraft/client/gamemode/secret/SecretBuilder$State.class
+SHA1-Digest: nTFRCknNJ3GMGGeQcattXC70cWQ=
+
+Name: net/minecraft/world/item/PaintingItem.class
+SHA1-Digest: uiqv6bhosawypU8MzjGk10yd6kA=
+
+Name: net/minecraft/client/gui/OptionsScreen.class
+SHA1-Digest: KrkYPr+NObznQsMnPsx036PjiJU=
+
+Name: net/minecraft/world/level/chunk/storage/ZonedChunkStorage.class
+SHA1-Digest: PN7j06C5C5WSUwYZKQNHVCa6shs=
+
+Name: mob/pigzombie.png
+SHA1-Digest: LETxHfZ185sIlXS1g8v0H9Q5RUs=
+
+Name: net/minecraft/client/renderer/entity/PigRenderer.class
+SHA1-Digest: iZilMPEIvQSvTgxwEcnEHipwuOA=
+
+Name: net/minecraft/client/MinecraftApplet$2.class
+SHA1-Digest: G9obtHv0D3LIBzNuLmyAC7q+zS0=
+
+Name: net/minecraft/client/player/ControllerInput.class
+SHA1-Digest: LJiCdtsSaiLBFOt/mKEo7J2zS+o=
+
+Name: net/minecraft/world/entity/monster/Ghast.class
+SHA1-Digest: znkfxxnjLPrSihfhUvlODdvwew8=
+
+Name: net/minecraft/world/level/tile/RedStoneOreTile.class
+SHA1-Digest: H6zAvAmlXVX7Il92wJwkhEHAzZk=
+
+Name: net/minecraft/world/item/crafting/FurnaceRecipes.class
+SHA1-Digest: jk0aJ+vcmNTck1pf1J2+8ORcsJ8=
+
+Name: net/minecraft/network/packet/ContainerSetContentPacket.class
+SHA1-Digest: W88DQJyitf3cgBb1YURATTNp4n0=
+
+Name: net/minecraft/client/StopGameException.class
+SHA1-Digest: rnjz5xS89vI6ryeoMy1TeboVNcw=
+
+Name: net/minecraft/world/level/tile/DirtTile.class
+SHA1-Digest: e4ldTYqGpFTcqPjq8babMhfaif0=
+
+Name: net/minecraft/world/inventory/TrapMenu.class
+SHA1-Digest: Cmg7vuYztd62sTuKffFjr9qtg7s=
+
+Name: net/minecraft/world/level/levelgen/CanyonFeature.class
+SHA1-Digest: imcgf+kxYCxvHtrkFW4NPtpU9XY=
+
+Name: net/minecraft/client/gamemode/SecretMode.class
+SHA1-Digest: aG7nYzw4pJxkmCFG9ys7gjF54t4=
+
+Name: com/mojang/nbt/FloatTag.class
+SHA1-Digest: UrDfwksUbe8VXNjWyS2M5raHZ94=
+
+Name: net/minecraft/network/packet/ContainerAckPacket.class
+SHA1-Digest: OXcYCrux9Hxnh7uoS+V6kadzAHU=
+
+Name: net/minecraft/client/player/LocalPlayer.class
+SHA1-Digest: BF4JjLGarIsaQC3N805UOBnzRm4=
+
+Name: net/minecraft/world/item/crafting/WeaponRecipies.class
+SHA1-Digest: vc6A+1Q6hCXPq61n1JT66fvzCr0=
+
+Name: net/minecraft/world/level/tile/NotGateTile.class
+SHA1-Digest: 84Py5r2KIMlZUzh3OAmjBT+6M7Q=
+
+Name: net/minecraft/client/gui/SmallButton.class
+SHA1-Digest: 8KGpJrLfWZy4ZT3LCawbtPWq4F4=
+
+Name: net/minecraft/network/packet/MovePlayerPacket$Rot.class
+SHA1-Digest: rzgISMLDFqE3UGblcUYZ+UvgYGA=
+
+Name: net/minecraft/world/entity/Painting$Motive.class
+SHA1-Digest: hUeknabo4ZV30dXPaKOWfEldnBQ=
+
+Name: net/minecraft/client/renderer/entity/SheepRenderer.class
+SHA1-Digest: f+QidYFMY06EVVrF1AGQ6q094KY=
+
+Name: net/minecraft/client/skins/DefaultTexturePack.class
+SHA1-Digest: a3RNIhozHlQ2Yfl6Dw33Ow9u+vY=
+
+Name: net/minecraft/network/packet/MoveEntityPacket.class
+SHA1-Digest: UwIi0f/V0wzwqaDO1MkiOsodetY=
+
+Name: net/minecraft/client/renderer/tileentity/SignRenderer.class
+SHA1-Digest: YWBsCVB3YHeiDWjqyrfElvboy00=
+
+Name: net/minecraft/world/level/tile/DispenserTile.class
+SHA1-Digest: a3YQs9U5Y1sS76UK4iSXZ9pnNHI=
+
+Name: com/jcraft/jorbis/Comment.class
+SHA1-Digest: XjLeBmbnOPpc117moyFD/vujwNI=
+
+Name: net/minecraft/Facing.class
+SHA1-Digest: NGXKTyckdZKCI8X78+RQ9E5BUZA=
+
+Name: net/minecraft/network/packet/ContainerSetSlotPacket.class
+SHA1-Digest: cqNaD5+qilCKfyndNhAQYwq9BPc=
+
+Name: net/minecraft/client/renderer/entity/MinecartRenderer.class
+SHA1-Digest: nSn3vFTzoCK1ZQ0f+HMXdM1JRxw=
+
+Name: net/minecraft/client/gamemode/SecretModeLevelListener.class
+SHA1-Digest: jpM2jB/6h/Behp8mQMZCgYtrOQY=
+
+Name: net/minecraft/world/level/tile/FireTile.class
+SHA1-Digest: y2YMiYvMBkH4kMY/c7ArpjXNxfg=
+
+Name: net/minecraft/isom/IsomPreview$2.class
+SHA1-Digest: ID1AnEtMt/5rvnQPMTeCvW6Ohg8=
+
+Name: paulscode/sound/ICodec.class
+SHA1-Digest: e5/O396Wm+7fOejSnS4Egnh0IAA=
+
+Name: net/minecraft/world/item/TileItem.class
+SHA1-Digest: nEeCGF4X3XySrmT0Fu43vu6jOF8=
+
+Name: net/minecraft/network/packet/TileEventPacket.class
+SHA1-Digest: iyv0/9EffOvJpYO3F3YDYBTVt6E=
+
+Name: net/minecraft/client/renderer/Tesselator.class
+SHA1-Digest: omGXQkMgyYG7dBpuW6WIbQxnCuI=
+
+Name: net/minecraft/world/entity/item/PrimedTnt.class
+SHA1-Digest: PkF/Lg2LsC1mBIX4kdCYDx41qTg=
+
+Name: com/jcraft/jorbis/DecodeExample.class
+SHA1-Digest: rBOIBKfoc6PUkKn+B2EWiDxn+G4=
+
+Name: gui/inventory.png
+SHA1-Digest: bEfElGShH3Lyjm3xUIj8f+wYnzE=
+
+Name: net/minecraft/world/level/tile/Sapling.class
+SHA1-Digest: ETuEQK3QydXQhE7FC0C8G3gWTQw=
+
+Name: com/mojang/nbt/ShortTag.class
+SHA1-Digest: q75dGfolaCRPN7jYGoelRdrXd6c=
+
+Name: title/black.png
+SHA1-Digest: F5YD+u+qUoA84jX206CpsgHfRYE=
+
+Name: net/minecraft/client/model/CowModel.class
+SHA1-Digest: DkAyZU1EV8YSJ2F8GkMBysxmjw0=
+
+Name: net/minecraft/world/level/chunk/storage/ChunkStorage.class
+SHA1-Digest: bQVdvTgQzQnvK2JjoNG+kEWQjYc=
+
+Name: net/minecraft/client/CrashReport.class
+SHA1-Digest: 3jw69NTiPO+qf8KupWmHwO/w8wE=
+
+Name: net/minecraft/world/level/tile/RecordPlayerTile.class
+SHA1-Digest: 1COU1Jw369qQgMMNaDuHxmsT8M8=
+
+Name: net/minecraft/world/item/DoorItem.class
+SHA1-Digest: 429l+TmoH+5mHLfIVIujvIrQb7k=
+
+Name: net/minecraft/world/item/BowlFoodItem.class
+SHA1-Digest: r0kvYiAzt/bS586HVK5+Yneg61M=
+
+Name: net/minecraft/client/gamemode/XperiaMode.class
+SHA1-Digest: Qtmuc2QBRVdEUjTOTavkuxw9ghE=
+
+Name: net/minecraft/world/level/FoliageColor.class
+SHA1-Digest: mOh4PZuD7nB0uEKrYCmRRuVrQt8=
+
+Name: net/minecraft/client/gui/Button.class
+SHA1-Digest: ogIkngfsasnke+4/rmU15kKIuDs=
+
+Name: com/jcraft/jorbis/FuncResidue.class
+SHA1-Digest: TMxbI/9yGRKJPgwzK+bjOLRUPsU=
+
+Name: net/minecraft/world/level/levelgen/feature/HellFireFeature.class
+SHA1-Digest: uork1SXIQkp6I6MgKb9/Ts631Lg=
+
+Name: net/minecraft/world/entity/monster/Monster.class
+SHA1-Digest: Sym09o4NBJ+0+rD5t30xtMRIiJ8=
+
+Name: com/jcraft/jorbis/Residue1.class
+SHA1-Digest: C8iPj/16zdD2D0jfUxX3m0jx0AM=
+
+Name: net/minecraft/world/entity/monster/PigZombie.class
+SHA1-Digest: pJTN/sjkSjMnqaemgNLCFqTjvyk=
+
+Name: net/minecraft/client/model/SkeletonModel.class
+SHA1-Digest: hqn3O52w+YslzeBfU0IbJ+zPSPA=
+
+Name: net/minecraft/world/level/material/Material.class
+SHA1-Digest: bzoOAnHIl5liABeOXKozmaXgadw=
+
+Name: paulscode/sound/Library.class
+SHA1-Digest: Kbk0/p1Ak/wnpueQ/ojJ/PkRjdM=
+
+Name: net/minecraft/client/sound/Sound.class
+SHA1-Digest: agUV8CtoEGjBqX5M0yIV3IpkRG0=
+
+Name: com/jcraft/jorbis/Mapping0.class
+SHA1-Digest: yEBBlevVSM5xdBSQ4CuGZRNeCbc=
+
+Name: mob/slime.png
+SHA1-Digest: NIyCL1+Xs0nDxfNk1ukuaoWtHcc=
+
+Name: net/minecraft/world/entity/item/Boat.class
+SHA1-Digest: edrtmyJcPqLaHSHol1UTq3RoRfU=
+
+Name: art/kz.png
+SHA1-Digest: Kk1yUIBdNZfGhhdOWU4eLfL2ngU=
+
+Name: net/minecraft/world/level/chunk/DataLayer.class
+SHA1-Digest: Uzvve3tkuGdvFHA/CTJBw5hFNag=
+
+Name: net/minecraft/client/gamemode/secret/Waypoint.class
+SHA1-Digest: NUCvitozil4H8z9iC3cqXcBlHdk=
+
+Name: com/jcraft/jorbis/CodeBook.class
+SHA1-Digest: GM4pLDDcFBnRW8Tf//dj43N2vlM=
+
+Name: paulscode/sound/ListenerData.class
+SHA1-Digest: Bh5zbEWlyzalKciuU7n6GkQ7ybw=
+
+Name: net/minecraft/world/item/crafting/ShapedRecipy.class
+SHA1-Digest: HoikLncWuOBU0TpNHhrtu1EKo9s=
+
+Name: net/minecraft/world/entity/player/InventorySlotManager.class
+SHA1-Digest: OuHD2hKIGoHEnm0rOULgYDQ9PQQ=
+
+Name: net/minecraft/client/model/SheepModel.class
+SHA1-Digest: Rf3oZx5SkMVjdxc409BXFBqDUvQ=
+
+Name: net/minecraft/world/entity/item/ItemEntity.class
+SHA1-Digest: 0SnQYY3SjaNpzogYGtuydRnIHMQ=
+
+Name: net/minecraft/world/level/tile/SignTile.class
+SHA1-Digest: WgKjJ9NXCCurDny9SLq0gZsCJc8=
+
+Name: com/jcraft/jorbis/VorbisFile$SeekableInputStream.class
+SHA1-Digest: rAiBvz7SZYwXHuVMzImbixdY7ps=
+
+Name: net/minecraft/client/gamemode/secret/SecretBuilder.class
+SHA1-Digest: nLsq3sgsGF9a4bfzxAVMtqSKYtU=
+
+Name: net/minecraft/client/gui/inventory/TextEditScreen.class
+SHA1-Digest: YObfXXzQKQixM1Ud1mChVx0ILHk=
+
+Name: net/minecraft/network/packet/AddItemEntityPacket.class
+SHA1-Digest: 2F3Yi2iBejp65Jowxpl3AoxPANo=
+
+Name: terrain/moon.png
+SHA1-Digest: SDIpawrYTACa3ShpzcTIQtnsck4=
+
+Name: com/jcraft/jorbis/Residue2.class
+SHA1-Digest: n1TGNz3uE4rQVjVzJLPNX5deOWs=
+
+Name: net/minecraft/world/level/tile/LiquidTileDynamic.class
+SHA1-Digest: LfpU2GlSjrzii8m/jP+LPmWQMEM=
+
+Name: net/minecraft/client/renderer/entity/EntityRenderer.class
+SHA1-Digest: uXaz5FzB1MY9alU45uBHVylJIsE=
+
+Name: net/minecraft/client/renderer/entity/PlayerRenderer.class
+SHA1-Digest: QxcHjpnTS8CMrqAolzjoOd9XY7k=
+
+Name: net/minecraft/world/level/biome/TaigaBiome.class
+SHA1-Digest: zHtcLjenqWqeKpRUbTBN9YIyeMw=
+
+Name: misc/dial.png
+SHA1-Digest: WteKszpkoUNHlxdSxnt89gJ4twU=
+
+Name: net/minecraft/client/renderer/OffsettedRenderList.class
+SHA1-Digest: os5NDTn1L41rsmWLRAr2WQSZkjA=
+
+Name: environment/clouds.png
+SHA1-Digest: HtJx4+gThjxj54jGeXnNmxmW7o0=
+
+Name: net/minecraft/client/multiplayer/MultiplayerLocalPlayer.class
+SHA1-Digest: Tz7Ihiy/Ky6uuLfMUpz2RcNJSBM=
+
+Name: net/minecraft/world/item/FishingRodItem.class
+SHA1-Digest: oKvAFP3HdFjI0pbw2DhQTtTWwyE=
+
+Name: mob/spider_eyes.png
+SHA1-Digest: 30MeaE6D/w4aOZw2BHxe98tnq1E=
+
+Name: com/jcraft/jorbis/Floor1$Lsfit_acc.class
+SHA1-Digest: zTEbyuQpO/KtDoWwI/s77wxL3gs=
+
+Name: net/minecraft/network/packet/SetEntityMotionPacket.class
+SHA1-Digest: GXty+qcEalOaKrNVNs2SrL1zBpY=
+
+Name: net/minecraft/world/item/TilePlanterItem.class
+SHA1-Digest: dAWrIdoo+tTnNe6lTNoGJOusb6Y=
+
+Name: paulscode/sound/SoundSystem.class
+SHA1-Digest: oBgQeTwrPTrZEQ83uUlRq1WvZUw=
+
+Name: net/minecraft/world/level/tile/Tile$1.class
+SHA1-Digest: j8hJgeDQujJhuqYxerSYBhh2+pQ=
+
+Name: net/minecraft/world/level/levelgen/feature/SpringFeature.class
+SHA1-Digest: moiBSakFGUb1mLN9wBtI5AKqqkU=
+
+Name: net/minecraft/world/entity/projectile/Arrow.class
+SHA1-Digest: ss1JupmLqSkWf1w3qJk+/DHPe0I=
+
+Name: util/LongHashMap$Entry.class
+SHA1-Digest: V84cQtxNLgcEX+jo0UUNt2jne60=
+
+Name: paulscode/sound/CommandObject.class
+SHA1-Digest: NzHh/nMeDuS/y+C43fFUC0WtCs8=
+
+Name: net/minecraft/network/packet/SignUpdatePacket.class
+SHA1-Digest: eT0A1JbnftOzXRMxf+G8EFx64lA=
+
+Name: net/minecraft/client/gui/inventory/CraftingScreen.class
+SHA1-Digest: RNtSA39pcZqKN9S2hk64trGkwj8=
+
+Name: net/minecraft/world/level/levelgen/DungeonFeature.class
+SHA1-Digest: HxvLEvckqukuQ8AMizbmT/5HCE4=
+
+Name: net/minecraft/world/level/tile/PressurePlateTile.class
+SHA1-Digest: pGM6sn5puJ5v9EW45+KkBQWkTHY=
+
+Name: net/minecraft/client/particle/BubbleParticle.class
+SHA1-Digest: WQWIMbRt3nZf9//74HVkckzOY3Y=
+
+Name: net/minecraft/world/level/levelgen/feature/CactusFeature.class
+SHA1-Digest: wYNkAyc6z64X0JqKjL4jYNmZ0mg=
+
+Name: net/minecraft/world/level/MobSpawner.class
+SHA1-Digest: e2fkdgzwtljVGwEe68TR7W+UMSY=
+
+Name: net/minecraft/world/level/levelgen/feature/OreFeature.class
+SHA1-Digest: vv6vScI8XwIcu2eMgAdEeL0GRJ0=
+
+Name: net/minecraft/world/level/tile/CakeTile.class
+SHA1-Digest: MjuAQwgn8bfknNh1HT694oDMv+8=
+
+Name: com/mojang/nbt/CompoundTag.class
+SHA1-Digest: Da/qvtQZlULH7nrT8ozyEUk7Q1w=
+
+Name: com/mojang/nbt/StringTag.class
+SHA1-Digest: meR5QnVrspHgs0NDCxLxR0EIUc8=
+
+Name: net/minecraft/client/renderer/culling/Frustum.class
+SHA1-Digest: phlInJQ4wclvjLYwrNv4qUC4/A8=
+
+Name: net/minecraft/network/packet/PlayerCommandPacket.class
+SHA1-Digest: SE4q2Pq/Q1lnuW7ViROH017vk6s=
+
+Name: net/minecraft/world/level/tile/GravelTile.class
+SHA1-Digest: doWe9+HOdA7v0lPXobdy7FzGku8=
+
+Name: net/minecraft/network/packet/AnimatePacket.class
+SHA1-Digest: QYdn3FpuuP6WwGHMSpQfZMxq/Oo=
+
+Name: net/minecraft/world/level/chunk/storage/CompatibilityChunkStorag
+ e.class
+SHA1-Digest: SagE0ieC01AC+a7JzIU/tExinIs=
+
+Name: net/minecraft/network/packet/PreLoginPacket.class
+SHA1-Digest: d78njXb64mPeexWaNNolGPLK5pI=
+
+Name: net/minecraft/client/MinecraftApplet.class
+SHA1-Digest: WhgwXMd5GmOxxWfo6V94BCF188w=
+
+Name: armor/cloth_2.png
+SHA1-Digest: rLjWgIiUGP7Y6od62FZqqeB/vaA=
+
+Name: net/minecraft/world/level/LevelSource.class
+SHA1-Digest: UVHJ7XvJXlF4D2zL4xoY61hWEoM=
+
+Name: mob/zombie.png
+SHA1-Digest: FcMQrfVTy+3DLbWmNt19tcrs//w=
+
+Name: misc/pumpkinblur.png
+SHA1-Digest: MN/YugY2yNxZbaRlgAFJ2/Q9/wU=
+
+Name: net/minecraft/client/model/ZombieModel.class
+SHA1-Digest: 7lBRqZ0QYDS5ZdBB2ZTuNlyeKrk=
+
+Name: net/minecraft/world/entity/item/Minecart.class
+SHA1-Digest: Ux7oUVuWfAEEYftI1mId2VAcHs8=
+
+Name: net/minecraft/client/locale/Language.class
+SHA1-Digest: tkurRBRTqWF0pfqh/KsXC5tjzXo=
+
+Name: net/minecraft/client/gamemode/secret/SecretModeLevelListener.cla
+ ss
+SHA1-Digest: ybOGrwo8h8tD/OPFSZvw7oMaJl8=
+
+Name: net/minecraft/client/gui/CustomJFileChooser.class
+SHA1-Digest: DDMr19dp5E2zfy+tSom8u4RX2/8=
+
+Name: com/jcraft/jorbis/Floor1.class
+SHA1-Digest: TtMi4IiPbYBTO9e/ICuWVCG1oSk=
+
+Name: net/minecraft/client/gui/inventory/TrapScreen.class
+SHA1-Digest: UJEQaQpR3LX0DEY51oY43jSD55s=
+
+Name: net/minecraft/world/inventory/ResultSlot.class
+SHA1-Digest: OpE6z6EH2LV+iB+JeRWKDhe/SF0=
+
+Name: net/minecraft/world/level/biome/RainforestBiome.class
+SHA1-Digest: 3WAKTQ0PO8u1lg+kqorzkqFn8Wo=
+
+Name: net/minecraft/client/renderer/HttpTexture$1.class
+SHA1-Digest: GYYryupuCHWTilC0Ix6cNHUQ7SU=
+
+Name: net/minecraft/world/level/tile/LightGemTile.class
+SHA1-Digest: 9hVHPFNNq10T62ihN5v8WqvX5iA=
+
+Name: net/minecraft/world/item/MinecartItem.class
+SHA1-Digest: a4b0hMX2+59TW+Fe/JvQrYxxR6c=
+
+Name: net/minecraft/network/Connection$1.class
+SHA1-Digest: RbmfyUzGVF2AYn1sOtX8FWovqiU=
+
+Name: mob/saddle.png
+SHA1-Digest: R/XNcO9SOQbvm/296+y3c+himyA=
+
+Name: com/jcraft/jorbis/VorbisFile.class
+SHA1-Digest: 7qe9/ZwRuNwRKLg5inSqDs4fG7w=
+
+Name: net/minecraft/world/item/crafting/StructureRecipies.class
+SHA1-Digest: 6h3CeoRSwIfHx8A1q24FZGt5sts=
+
+Name: net/minecraft/client/Minecraft.class
+SHA1-Digest: VjFgAKBx3XjZiBM9Wgk6fSpnNiE=
+
+Name: paulscode/sound/Source.class
+SHA1-Digest: znoB864pxvif36fw38TeQQK3f4w=
+
+Name: net/minecraft/world/item/SaddleItem.class
+SHA1-Digest: eQmm1HrAQqX7XZsF/jSKf8e0bqk=
+
+Name: paulscode/sound/SoundSystemLogger.class
+SHA1-Digest: /pWKS/5B2nCVa7Vg04zOpjjRTvc=
+
+Name: com/mojang/nbt/ByteTag.class
+SHA1-Digest: 5PKkKdab6RgPyuksRg80wfOwuc4=
+
+Name: gui/container.png
+SHA1-Digest: s4IxEeI0il8FV4xtSwRXr1emQ/Q=
+
+Name: net/minecraft/network/packet/KeepAlivePacket.class
+SHA1-Digest: OnA8tzC2FqqARKGjt4NVjiz4ato=
+
+Name: misc/vignette.png
+SHA1-Digest: SD5wUOuOOQHDtGxOcBaMOUt4ELI=
+
+Name: net/minecraft/world/level/tile/FarmTile.class
+SHA1-Digest: U21OPoaEXk27cdIKOsa533OMBIc=
+
+Name: net/minecraft/world/level/tile/TntTile.class
+SHA1-Digest: TdaPbRIxWXirqjn9kqNGXZmPXUI=
+
+Name: net/minecraft/world/level/levelgen/synth/Distort.class
+SHA1-Digest: i/g6nbw9awhPXkUIOJdD9Rv9gqA=
+
+Name: net/minecraft/world/item/crafting/Recipy.class
+SHA1-Digest: yjHlTsFpQStuoarzem5YXbyCVXs=
+
+Name: net/minecraft/client/gamemode/secret/Builder$State.class
+SHA1-Digest: p+miAdZ7Ov6YFBB3aNa9i0QPJ4M=
+
+Name: net/minecraft/client/MouseHandler.class
+SHA1-Digest: Lc6eX7zKI3iusC7TZOi7buBsP8U=
+
+Name: net/minecraft/client/renderer/entity/ItemSpriteRenderer.class
+SHA1-Digest: YyoALvhQPqOqM9uBW6+0RrRqsG0=
+
+Name: net/minecraft/client/renderer/DirtyChunkSorter.class
+SHA1-Digest: xcJqbZ9GDOGsFr5/kdNYk2lhNtU=
+
+Name: com/jcraft/jorbis/Floor0$LookFloor0.class
+SHA1-Digest: qs9pUslWo3w44SlSdxJHI7eU7FQ=
+
+Name: net/minecraft/client/skins/TexturePack.class
+SHA1-Digest: Kbsng2yfeAOtoA3PUBIQxMmfY1U=
+
+Name: util/ProgressListener.class
+SHA1-Digest: 3QFKju6fwmB+yiLJbCjftpiBLMY=
+
+Name: gui/icons.png
+SHA1-Digest: 3d7hw+UskcGywysCm8Pe0kd9chg=
+
+Name: net/minecraft/client/model/CreeperModel.class
+SHA1-Digest: e1pfX7J/X2BruX68TSnwwZc/bLo=
+
+Name: net/minecraft/world/level/levelgen/synth/Rotate.class
+SHA1-Digest: XU4lyo3kUXhAHvCPo1Z5s8t1hKE=
+
+Name: net/minecraft/world/level/tile/NotGateTile$Toggle.class
+SHA1-Digest: KKRhbiu1Vxgjed/6PsAu2pP7gF8=
+
+Name: com/jcraft/jorbis/Floor0$InfoFloor0.class
+SHA1-Digest: a5zGtb8WJFuvEMcXK+vy0nF+fuo=
+
+Name: net/minecraft/world/level/tile/TransparentTile.class
+SHA1-Digest: OgECa+W3D+V1JXiYKOrPdD6vuMg=
+
+Name: net/minecraft/world/level/levelgen/LargeCaveFeature.class
+SHA1-Digest: XjvOXOOAEQKOAYUwDUQjkEyJWso=
+
+Name: net/minecraft/world/level/levelgen/feature/HellSpringFeature.cla
+ ss
+SHA1-Digest: dF11Czd/Nl9W9eyhhgYE2zFYhmI=
+
+Name: net/minecraft/client/gamemode/secret/SecretMode.class
+SHA1-Digest: PGZ3dccBWy9oEMiNmVqvn3VyD+g=
+
+Name: net/minecraft/world/level/tile/HellStoneTile.class
+SHA1-Digest: izYS2zQHBVcSvmzY9T4ZW2cR+34=
+
+Name: net/minecraft/client/renderer/ptexture/WaterSideTexture.class
+SHA1-Digest: CoNO6KBTTybcHMPHKsVRl73UWz8=
+
+Name: particles.png
+SHA1-Digest: dSP2vL+H3ZyCGeXyiXLrS63tVVk=
+
+Name: net/minecraft/world/level/tile/entity/SignTileEntity.class
+SHA1-Digest: cF5k7Dj9TQyBqAeU0wmNwFZ7Ay8=
+
+Name: net/minecraft/client/gui/Gui.class
+SHA1-Digest: 654KYzYBHuELkKPFK3b3Bonxo3o=
+
+Name: net/minecraft/world/level/pathfinder/BinaryHeap.class
+SHA1-Digest: ajVl3RNVdBA3lkfHqPqU85RYdjg=
+
+Name: mob/creeper.png
+SHA1-Digest: 3HtuKTBjFiOMuk8NXG6vQCQtMVA=
+
+Name: net/minecraft/client/particle/Particle.class
+SHA1-Digest: 3/km7ovfISVS4wsEBSFMNuZe19Y=
+
+Name: net/minecraft/world/level/pathfinder/Node.class
+SHA1-Digest: TInX29skZt20PHDxE7wZfkIt/Zw=
+
+Name: mob/chicken.png
+SHA1-Digest: xxH+S0xuPfLFkqetSCvlhMz7pec=
+
+Name: gui/gui.png
+SHA1-Digest: gRdhQou4Hz7VsKfsMQAzIyCdFg0=
+
+Name: net/minecraft/client/player/Input.class
+SHA1-Digest: CU8ieLz7S1f9sCEIQAp5WeZCkdM=
+
+Name: net/minecraft/world/level/tile/GlassTile.class
+SHA1-Digest: YdxS4cmZIvVh2GYqELfCenNbivc=
+
+Name: net/minecraft/world/item/HatchetItem.class
+SHA1-Digest: HSW4GkQ3/rysDdXAzaOjC8hM1Dc=
+
+Name: net/minecraft/world/Container.class
+SHA1-Digest: W/QIZX1Y4ASbNOiz/tV1unm36Lc=
+
+Name: net/minecraft/client/User.class
+SHA1-Digest: hzqavSjJRxsadelAjc2uQbbrXeM=
+
+Name: net/minecraft/client/model/ChickenModel.class
+SHA1-Digest: /6p5vzPseruMiFBr0qm86BG25OM=
+
+Name: net/minecraft/client/renderer/entity/BoatRenderer.class
+SHA1-Digest: 1uYB+jaVFwR8VocbS+PetxU4ZRU=
+
+Name: net/minecraft/world/entity/Entity.class
+SHA1-Digest: KDjEBIHv4ZAvmzQ7RsKIsziJ8uE=
+
+Name: net/minecraft/network/packet/MovePlayerPacket$Pos.class
+SHA1-Digest: nW2pbbWyhIZXhGgv0iqAr3vjTvA=
+
+Name: net/minecraft/world/level/tile/AirTile.class
+SHA1-Digest: pQE3w1cm7yCXpkF6PwUQJr6rlHQ=
+
+Name: net/minecraft/world/level/levelgen/feature/BasicTree.class
+SHA1-Digest: WTBUvI1lDm6N1+zbe8iNt4THTZU=
+
+Name: com/jcraft/jorbis/Util.class
+SHA1-Digest: aGc7LIbbMRnBGb7Ajn3hpcjDLjw=
+
+Name: net/minecraft/client/model/Model.class
+SHA1-Digest: uRFoJcnADp1OIhbV1uXfw5IeEwM=
+
+Name: net/minecraft/client/renderer/entity/GhastRenderer.class
+SHA1-Digest: PZRE8H2ixt4p6asaZvM8te+FtFY=
+
+Name: paulscode/sound/SimpleThread.class
+SHA1-Digest: Jkcl0kSYro0Yd7flMhR7h95h6cA=
+
+Name: net/minecraft/network/packet/MoveEntityPacket$Rot.class
+SHA1-Digest: Ou3rGcWHGx4skL3rEV8isH7oA0U=
+
+Name: net/minecraft/client/MinecraftApplet$1.class
+SHA1-Digest: I82igqXkRnogj2YfN1KPMB/5amQ=
+
+Name: pack.txt
+SHA1-Digest: 3EKjInVcfn3Wn8KG5d7Igu/jBfM=
+
+Name: net/minecraft/world/item/FlintAndSteelItem.class
+SHA1-Digest: 43+sH8HLjJ87sygyoDdWbpWQMno=
+
+Name: net/minecraft/client/renderer/ItemInHandRenderer.class
+SHA1-Digest: 3sDNrHVb92XS3pV//Ud5kTE+3bo=
+
+Name: gui/logo.png
+SHA1-Digest: VrsKWcrukW60B8Oi5N7vsINm2bU=
+
+Name: net/minecraft/client/model/Vertex.class
+SHA1-Digest: MpaL0RZukmxjhHQcWsu8b5nXypo=
+
+Name: net/minecraft/client/renderer/entity/SlimeRenderer.class
+SHA1-Digest: ysEEIHtB6PwBfBzzC7Z1WO0Yh/U=
+
+Name: net/minecraft/world/item/DyePowderItem.class
+SHA1-Digest: HaEzrLG/XS8bjldGbmKhN7shsbA=
+
+Name: com/jcraft/jorbis/PsyInfo.class
+SHA1-Digest: AI3b6cnybxuaYe/Hb6fdet8Jfd0=
+
+Name: net/minecraft/world/level/biome/FixedBiomeSource.class
+SHA1-Digest: Ose5dF7HnoYE/RwPPuPHgCHauAY=
+
+Name: net/minecraft/client/CrashInfoPanel.class
+SHA1-Digest: AOAxplHJbzA7l8m+2QaGqlsEVtI=
+
+Name: net/minecraft/client/renderer/culling/FrustumData.class
+SHA1-Digest: RmWALPpbiGSVA4+J3WhlECSmugY=
+
+Name: net/minecraft/world/level/tile/ButtonTile.class
+SHA1-Digest: Fy0eNCAj8eXpesnURfoy5nhESvk=
+
+Name: net/minecraft/client/gui/ErrorScreen.class
+SHA1-Digest: Pul697mfcxdDnF1G59ucIEJaV/Q=
+
+Name: net/minecraft/world/level/dimension/HellDimension.class
+SHA1-Digest: ruwmcpS+sNGKgoY1pKD1r4Jhos4=
+
+Name: net/minecraft/client/particle/FlameParticle.class
+SHA1-Digest: bcTzek6nsZUX/aULB+IMxWpkCJw=
+
+Name: net/minecraft/client/renderer/entity/EntityRenderDispatcher.clas
+ s
+SHA1-Digest: 1k6g/9GwA5d2F5j/JfnjqsKiyoQ=
+
+Name: net/minecraft/network/packet/ContainerOpenPacket.class
+SHA1-Digest: EgahWarvBofPqBFdsFrtvafgsuw=
+
+Name: net/minecraft/client/model/SheepFurModel.class
+SHA1-Digest: 1Jmq5pQfb4s9VIzPmwl65gp97lk=
+
+Name: net/minecraft/world/inventory/MenuBackup.class
+SHA1-Digest: lecIN9WiVQu2lC+lq3hEcm7Tns0=
+
+Name: net/minecraft/locale/Descriptive.class
+SHA1-Digest: 9KWC/XNVETcSfDqEXuy22KAcfaA=
+
+Name: paulscode/sound/Vector3D.class
+SHA1-Digest: 2BHjRcqmphyHDUxJ/9+c7LsSrPQ=
+
+Name: net/minecraft/world/level/levelgen/synth/PerlinSimplexNoise.clas
+ s
+SHA1-Digest: VbICJyLsuQCvnW/m6y7oRDYxLJM=
+
+Name: net/minecraft/client/gui/SelectWorldScreen.class
+SHA1-Digest: mfEdXrIvBY+T2dKsObB1gZBwm40=
+
+Name: net/minecraft/client/KeyMapping.class
+SHA1-Digest: M9MEmRF5mU31NKKnqFDaq9LHw9A=
+
+Name: net/minecraft/client/renderer/entity/ChickenRenderer.class
+SHA1-Digest: rmqIuX0I6oNqDEPB8JHe17MKhdo=
+
+Name: net/minecraft/world/level/LevelObjectInputStream.class
+SHA1-Digest: NeYNPaQSb+Cg7MPt3+ey5kYaMLs=
+
+Name: gui/background.png
+SHA1-Digest: Tj5g6xm/Asnn8FmrzIyNN26+r8w=
+
+Name: net/minecraft/world/level/material/LiquidMaterial.class
+SHA1-Digest: vGA/tMSpg0NgK3Ha5rDT4SStF/g=
+
+Name: net/minecraft/world/level/tile/PressurePlateTile$Sensitivity.cla
+ ss
+SHA1-Digest: BTSu7Zz3Jwz4g1pErVs8/vTbvxg=
+
+Name: armor/chain_1.png
+SHA1-Digest: kjVR+O9K/uHjjos6pVmhxzKWvHI=
+
+Name: net/minecraft/client/particle/TerrainParticle.class
+SHA1-Digest: ndbcwk1/XOFAg00l8px9avijpvk=
+
+Name: mob/char.png
+SHA1-Digest: 9fkV0U8Uc0ecQ5YqOnJUqbGgNGA=
+
+Name: net/minecraft/world/inventory/AbstractContainerMenu.class
+SHA1-Digest: mZGAAA3V+qoowNFpl+akf6Wdhf8=
+
+Name: net/minecraft/world/entity/projectile/ThrownEgg.class
+SHA1-Digest: FMLPf4qYhLd/+GLq17luk0AMolw=
+
+Name: net/minecraft/client/model/QuadrupedModel.class
+SHA1-Digest: kiOzzhjBGWHEGr6h1AlBxObssTM=
+
+Name: net/minecraft/world/level/tile/HellSandTile.class
+SHA1-Digest: 0hJ5e6Uc826gwDFezq14W6jdsfc=
+
+Name: net/minecraft/network/packet/LoginPacket.class
+SHA1-Digest: GavIeeJeHxjXy81L8i/+pSWVH+c=
+
+Name: net/minecraft/client/renderer/tileentity/TileEntityRenderer.clas
+ s
+SHA1-Digest: l38rQfZpLfFsWiHjl/hNeYtsCZ4=
+
+Name: net/minecraft/world/level/tile/entity/FurnaceTileEntity.class
+SHA1-Digest: iyWNVy29SammoPpSOR7OsBJqpk4=
+
+Name: net/minecraft/world/item/ShovelItem.class
+SHA1-Digest: mv2WH3556mNEC9ijF5OZry/cXDM=
+
+Name: net/minecraft/world/level/tile/SnowTile.class
+SHA1-Digest: MKNpZi/vaKy5QVqOP7s+zgv3fBs=
+
+Name: net/minecraft/world/level/BiomeMap.class
+SHA1-Digest: R+6/prltjvFYUPHr0i7wgIir+tQ=
+
+Name: com/jcraft/jorbis/Residue0.class
+SHA1-Digest: gTkBH3tUqZUXAcl36iFE2nL9cyk=
+
+Name: paulscode/sound/libraries/ChannelLWJGLOpenAL.class
+SHA1-Digest: nYZnS62On1DT9h8ljPkDZK3Rygw=
+
+Name: net/minecraft/network/packet/ContainerClickPacket.class
+SHA1-Digest: IkDhjLt+VzHbWRLPIyuKURoQy0A=
+
+Name: net/minecraft/client/particle/ParticleEngine.class
+SHA1-Digest: UqRZ40JtnXnBG0QBDFcPo5NarH8=
+
+Name: net/minecraft/world/entity/animal/Sheep.class
+SHA1-Digest: luI2svHVefkJJSCoToYHwytqZAs=
+
+Name: net/minecraft/network/Connection.class
+SHA1-Digest: Tq2p+QvZJOCzaMkUj/2hAkj7v4c=
+
+Name: net/minecraft/client/renderer/Chunk.class
+SHA1-Digest: AcvH+d32ZJBHal14jfEl5uxHr70=
+
+Name: net/minecraft/world/level/levelgen/feature/SpruceFeature.class
+SHA1-Digest: PnvXcnRDM144eGtVJLmWwxEgHCQ=
+
+Name: com/jcraft/jogg/Buffer.class
+SHA1-Digest: e++msiRP84cM8gJzWx8BK5/uKP4=
+
+Name: com/jcraft/jorbis/Lookup.class
+SHA1-Digest: C+ZSg0L58JWI+PVZdMXZqAOvctM=
+
+Name: net/minecraft/world/level/tile/MobSpawnerTile.class
+SHA1-Digest: sipVCZUTJDp9t/SZ/qP36E3O1OU=
+
+Name: net/minecraft/world/level/tile/LeafTile.class
+SHA1-Digest: O4+24Av343M90+IcWJhmdgrjjWo=
+
+Name: net/minecraft/world/item/crafting/ArmorRecipes.class
+SHA1-Digest: h4woz93n3KZ9q0ITRAV8YEkSpVo=
+
+Name: net/minecraft/client/model/MinecartModel.class
+SHA1-Digest: Lo6opWR6gpXuWvmcq2gRT8vPYSE=
+
+Name: net/minecraft/world/item/BucketItem.class
+SHA1-Digest: Ys+6JTuBpW0x9Wz0GV073NPXPlk=
+
+Name: net/minecraft/world/inventory/Slot.class
+SHA1-Digest: GbBmt6zE8V0/+c0nW926tiB3dwI=
+
+Name: net/minecraft/client/renderer/culling/ViewportCuller$Face.class
+SHA1-Digest: oAZltikomcCgVkMTkC3oTffQpSM=
+
+Name: net/minecraft/client/gui/SlideButton.class
+SHA1-Digest: SVJPLEl9Y0KaFLvYJgidxi6ia6U=
+
+Name: util/Mth.class
+SHA1-Digest: T28aIjVkHIQfoaJP9UWa0bOW9k0=
+
+Name: net/minecraft/client/CrashInfoPanel$Border.class
+SHA1-Digest: gU/ZQyW0eYu3EPltSbvhJ5nN20U=
+
+Name: net/minecraft/client/renderer/entity/SquidRenderer.class
+SHA1-Digest: tRtIVvckYlTUiOi0xJb1oYZUbXQ=
+
+Name: net/minecraft/network/packet/ChunkTilesUpdatePacket.class
+SHA1-Digest: IIFXMZ6wYLUT4WfOa+WSfwm1Lj4=
+
+Name: net/minecraft/client/renderer/MobSkinTextureProcessor.class
+SHA1-Digest: 34GnLFgeAHGfGRZuKK8PMMXCPak=
+
+Name: net/minecraft/world/level/tile/MetalTile.class
+SHA1-Digest: d2TaOo/k7kaZ/Kx6RAPAv5JxDu0=
+
+Name: net/minecraft/world/level/tile/CactusTile.class
+SHA1-Digest: 1X6pyHmInT2Xi+orHDQF2AyKHoA=
+
+Name: net/minecraft/client/renderer/HttpTexture.class
+SHA1-Digest: OJNvCQ+vLiZan/QYNQwJrGOyQHM=
+
+Name: paulscode/sound/MidiChannel.class
+SHA1-Digest: 9PlPxZxAuAXN6wvq5z7MHYsdTKw=
+
+Name: net/minecraft/world/level/tile/ChestTile.class
+SHA1-Digest: YPGjI5nimQsfPhf1CgZuQ69YXOk=
+
+Name: net/minecraft/world/entity/monster/Skeleton.class
+SHA1-Digest: 5Zu4Fzxw3EbKdUEVnWIn4vuQTV8=
+
+Name: net/minecraft/world/item/crafting/Recipes.class
+SHA1-Digest: Xi2j9ps8OFZhEAx9gBNxadp4F24=
+
+Name: net/minecraft/world/item/crafting/FoodRecipies.class
+SHA1-Digest: fVgAXlgS2IsDf7UzIP/R4jMX/aI=
+
+Name: net/minecraft/client/renderer/ptexture/PortalTexture.class
+SHA1-Digest: oYF0/NlkshKZD/91pctBxO85Eh0=
+
+Name: net/minecraft/isom/Zone.class
+SHA1-Digest: NBKlqeM4qFPy8iQXVU8+wnWYt98=
+
+Name: net/minecraft/world/level/chunk/EmptyLevelChunk.class
+SHA1-Digest: xOrOl0QjD5qmZa0+8uddH2CJtdY=
+
+Name: net/minecraft/world/level/biome/Biome.class
+SHA1-Digest: 3djiVe3T9ALWJATx88q4/OQB6P0=
+
+Name: com/jcraft/jorbis/StaticCodeBook.class
+SHA1-Digest: FrgSp0YDUjARSFEzkN+lnH5GQcs=
+
+Name: net/minecraft/world/CompoundContainer.class
+SHA1-Digest: cUZz94hWwr60lOT3bU8M/munRCk=
+
+Name: net/minecraft/world/item/Item$Tier.class
+SHA1-Digest: +RdTHGnc4fUK5O11hgMnyvy1AG0=
+
+Name: com/jcraft/jorbis/ChainingExample.class
+SHA1-Digest: jrNIhO4HlmaYFC6Mv4BIwP/Wrkw=
+
+Name: net/minecraft/world/level/tile/ReedTile.class
+SHA1-Digest: VV/X/i9XkIzu/cvHpGLvKrsGL50=
+
+Name: net/minecraft/client/gui/ControlsScreen.class
+SHA1-Digest: 5WN33M/iE4didrbQWf+wpFlRDto=
+
+Name: net/minecraft/world/level/levelgen/feature/PumpkinFeature.class
+SHA1-Digest: 5jCGCTJYh5/XSVbEs6f8Bo00TBI=
+
+Name: net/minecraft/world/level/levelgen/synth/Scale.class
+SHA1-Digest: sZeKdhlrEdaj8HMnIkXnZNzV4gc=
+
+Name: net/minecraft/client/multiplayer/MultiPlayerLevel.class
+SHA1-Digest: sNWUNkLEvQoxKdjiH3qTlAEkUpA=
+
+Name: pack.png
+SHA1-Digest: 0whdfgR8SNywEpiN+JrMJ9wtI+8=
+
+Name: net/minecraft/world/level/tile/ClayTile.class
+SHA1-Digest: mbIT7EO0UCr8T+cRUS/YIZjCfyc=
+
+Name: net/minecraft/client/renderer/ptexture/LavaTexture.class
+SHA1-Digest: uIYteR9dRWlecW/etjw/L58/Fmc=
+
+Name: net/minecraft/client/gui/DeleteWorldScreen.class
+SHA1-Digest: Gnni8v1OTyBDcPKnq7sUuh2ruCc=
+
+Name: com/mojang/nbt/IntTag.class
+SHA1-Digest: lIaNQAfWtjkm3q5I7SUSqPzYBHY=
+
+Name: net/minecraft/client/gui/NameEntryScreen.class
+SHA1-Digest: +ogI3Nxvg4SImaL+Yp/WtUlOjJ0=
+
+Name: net/minecraft/network/packet/ChatPacket.class
+SHA1-Digest: LoKryTsJ91UB6ZqVKfrq86d0OG0=
+
+Name: net/minecraft/client/multiplayer/MultiPlayerChunkCache.class
+SHA1-Digest: P8w1g5BPn+Sq8OD4RrVb/pK2mlQ=
+
+Name: mob/ghast_fire.png
+SHA1-Digest: +6jL2E1+HQDIsxnSY88TJ0se7F8=
+
+Name: net/minecraft/client/sound/SoundEngine.class
+SHA1-Digest: fc6yADsLHnZGavzThbuSABhvIvU=
+
+Name: net/minecraft/world/entity/EntityPos.class
+SHA1-Digest: SOtvIxjKlWQA2oLTmzg5q36JWMY=
+
+Name: net/minecraft/world/level/tile/IceTile.class
+SHA1-Digest: HoW519uEHnq3d5Rn1SscC9C1xLQ=
+
+Name: net/minecraft/world/entity/monster/Slime.class
+SHA1-Digest: 1xN1zoLPbBUvRMtcFciPRzQbLP8=
+
+Name: net/minecraft/client/multiplayer/ReceivingLevelScreen.class
+SHA1-Digest: +QG9fWU2LCGxEkiHn4Xk+t3CU+E=
+
+Name: net/minecraft/client/model/GhastModel.class
+SHA1-Digest: mWD+GfYv2yA9pOorVrL7FKzpx7k=
+
+Name: net/minecraft/client/sound/SoundRepository.class
+SHA1-Digest: +MfEijaUuqdbmPO+T+VDWVaKUq4=
+
+Name: net/minecraft/world/level/TickNextTickData.class
+SHA1-Digest: /lg+Dd9lzUEWty9+4oThEHgxtjo=
+
+Name: com/jcraft/jorbis/Drft.class
+SHA1-Digest: jsFmlF2nvd3cKwOR3XEKPuiEUmY=
+
+Name: net/minecraft/client/renderer/LevelRenderer.class
+SHA1-Digest: vOOZrvXkv1w/q/AsK7itFJeTKsE=
+
+Name: net/minecraft/client/Lighting.class
+SHA1-Digest: PaX667SHelWx7CjY8Er6qnF06xk=
+
+Name: com/jcraft/jorbis/Time0.class
+SHA1-Digest: ghebM8djdNNZc2DuSI//V5QhA8o=
+
+Name: net/minecraft/world/inventory/InventoryMenu.class
+SHA1-Digest: bURBzGFUjHDDfK6azkt1f1+hfvY=
+
+Name: net/minecraft/world/level/tile/StairTile.class
+SHA1-Digest: KIyZ5LfftJFyMHlxcNVenOTXFwM=
+
+Name: net/minecraft/world/level/levelgen/synth/SimplexNoise.class
+SHA1-Digest: orc1J5XPNne2ivV5q9tiZlWPNRY=
+
+Name: net/minecraft/world/level/tile/StoneSlabTile.class
+SHA1-Digest: X3YLgVro7atpzNsmRCY8CqC5tbQ=
+
+Name: net/minecraft/world/entity/monster/Zombie.class
+SHA1-Digest: K0UbHeJ6aVp6F7wo+WrktrgWBrc=
+
+Name: net/minecraft/world/level/tile/LadderTile.class
+SHA1-Digest: 6lPChWfeoJeOod+ulGR+DTSStwE=
+
+Name: com/jcraft/jorbis/Mapping0$InfoMapping0.class
+SHA1-Digest: fUtMs3bKVlzsugDzrp5fgRYzlyM=
+
+Name: com/jcraft/jorbis/JOrbisException.class
+SHA1-Digest: YeDMbQHRUFQjdQPr+Ut3Km+SpzI=
+
+Name: net/minecraft/world/level/dimension/NormalDimension.class
+SHA1-Digest: gbDCAb7M4iJF48GvT6/3lrKeeA4=
+
+Name: net/minecraft/client/renderer/entity/PaintingRenderer.class
+SHA1-Digest: bAjqdF8KBzBYWWU/7uPQgTw0Vrw=
+
+Name: misc/shadow.png
+SHA1-Digest: AYFQ3xpHp3kTFkRPiWGj3TvGWxc=
+
+Name: net/minecraft/world/level/tile/CoralTile.class
+SHA1-Digest: cBXP6lVBiRvqeQ/hjB8BdPi6hGg=
+
+Name: net/minecraft/client/multiplayer/MultiPlayerLevel$ResetInfo.clas
+ s
+SHA1-Digest: AGAlGHX/NsjojrTja9ih1lrZc+s=
+
+Name: com/jcraft/jorbis/Info.class
+SHA1-Digest: t5U7AnAdwzQOLa9zMrRyQ5bX4xE=
+
+Name: net/minecraft/client/model/HumanoidModel.class
+SHA1-Digest: MmAiENyYUCPYrqzDhWtU+DtDnAU=
+
+Name: net/minecraft/client/model/PigModel.class
+SHA1-Digest: IVMI1nESkkrH+OJBcMoqXKccMQs=
+
+Name: net/minecraft/network/packet/InteractPacket.class
+SHA1-Digest: GkhBf9Ip5y70GjNJQ/EMaqBss7M=
+
+Name: com/jcraft/jorbis/Block.class
+SHA1-Digest: 62lmGvFLQuF1FL+gF6Zu8ew1XP0=
+
+Name: misc/water.png
+SHA1-Digest: Vhq7UdiyZLnQqLLJ4yxoNYXxRGA=
+
+Name: com/jcraft/jorbis/InfoMode.class
+SHA1-Digest: Yq+q8mmvbOIV8hfe5ATjs8clU4Q=
+
+Name: net/minecraft/world/item/SignItem.class
+SHA1-Digest: YypmCWgGCONTFktyKoci7SAL9Tw=
+
+Name: net/minecraft/world/level/levelgen/feature/HellPortalFeature.cla
+ ss
+SHA1-Digest: BrV7sSP3T0i4dUQ+g8eaXYu4AUo=
+
+Name: com/jcraft/jorbis/Floor1$InfoFloor1.class
+SHA1-Digest: 5A2A5ew+m7relgqu3/TK3JibAqw=
+
+Name: armor/diamond_1.png
+SHA1-Digest: Rsd1MWYxhXeKfeWKvHhl3FmsdbM=
+
+Name: net/minecraft/world/level/tile/SpringTile.class
+SHA1-Digest: hq62CW5FOqfFo1X4DJaGWg2421Q=
+
+Name: net/minecraft/world/level/LevelConflictException.class
+SHA1-Digest: tuphQm3Nqu9Q5rAmqJLCZA4KBrA=
+
+Name: net/minecraft/world/level/levelgen/feature/MonsterRoomFeature.cl
+ ass
+SHA1-Digest: L37g+pDvg/m7ue9p2HLdnxMcvlo=
+
+Name: net/minecraft/world/entity/monster/Spider.class
+SHA1-Digest: lQaoFZyxZpeiNSQWQ5bNuIwZn58=
+
+Name: font.txt
+SHA1-Digest: XIymNFJoYTV+PVJ/Xyghx89McsI=
+
+Name: net/minecraft/world/level/tile/ClothTile.class
+SHA1-Digest: MGYKogg7QHwo/MNmnj5N3q1XnqQ=
+
+Name: net/minecraft/client/Minecraft$1.class
+SHA1-Digest: WDhnT0WzUN7U+5uCFGtfcpuZ6jk=
+
+Name: font/default.png
+SHA1-Digest: 2CMCEKYrWPY9ZVNsqUlfnaBNBHA=
+
+Name: net/minecraft/world/level/chunk/storage/ZoneIo.class
+SHA1-Digest: XwjZ6DCYyfLH8URRQmQ+ihXCbgk=
+
+Name: net/minecraft/client/renderer/entity/FishingHookRenderer.class
+SHA1-Digest: W2/d2DJC5ZiOw4D6bIWLruUZrgE=
+
+Name: net/minecraft/client/gui/JoinMultiplayerScreen.class
+SHA1-Digest: 5QbmAZHIKlVxw5qxSxOnNu8ur94=
+
+Name: net/minecraft/network/packet/ChunkVisibilityPacket.class
+SHA1-Digest: nOdX+2SPbtju9cD4RSonHIjfUxk=
+
+Name: net/minecraft/world/level/tile/LeverTile.class
+SHA1-Digest: qTGWFR4CDQBTU5lQytUclpjkNn8=
+
+Name: net/minecraft/world/level/tile/MusicTile.class
+SHA1-Digest: tDDF7uQyEgICA3wc9UayJRJpvjs=
+
+Name: net/minecraft/client/CrashInfoPanel$LogoBorder.class
+SHA1-Digest: CYFQ9U8f/P/9iuu4zlFcxwR5AbU=
+
+Name: paulscode/sound/libraries/LibraryLWJGLOpenAL.class
+SHA1-Digest: SfCmK5gzVESVQKr2A+RFJwRk4yQ=
+
+Name: net/minecraft/world/item/EggItem.class
+SHA1-Digest: C9/KPan0qgn5ByXUtictBMLM91c=
+
+Name: com/jcraft/jorbis/Residue0$InfoResidue0.class
+SHA1-Digest: CBI8Ah6ITaFlWsQZmmQA/EOFMrY=
+
+Name: net/minecraft/world/level/TilePos.class
+SHA1-Digest: Xe+YZvuyrKaoulNzRzx65aC1WQM=
+
+Name: net/minecraft/world/entity/projectile/FishingHook.class
+SHA1-Digest: 6Z1tgMXxd7Sb3F8DaXSPIcIUC6c=
+
+Name: mob/squid.png
+SHA1-Digest: uVnantqZV9ojjTTbUNM+cTmEX/M=
+
+Name: net/minecraft/client/skins/TexturePackSelectScreen.class
+SHA1-Digest: xCZrBiJBNM9dCzoGL7w0D72NZN0=
+
+Name: net/minecraft/world/item/ItemInstance.class
+SHA1-Digest: +FQemmBzL3Fuw85FBtBwtGpIGGU=
+
+Name: net/minecraft/client/Screenshot.class
+SHA1-Digest: 4iDcWuCikWb3bX8/VZDKq6EZ3aw=
+
+Name: net/minecraft/Pos.class
+SHA1-Digest: 3cwZSTX2gzopX1W+9r4+om1RRYI=
+
+Name: net/minecraft/world/level/biome/ForestBiome.class
+SHA1-Digest: t9MKumCSDwrUXiVZ898B0lz/utg=
+
+Name: util/IntHashMap.class
+SHA1-Digest: QFb3kKFBQcAjOcvVSc02C6CtqSY=
+
+Name: net/minecraft/network/packet/TakeItemEntityPacket.class
+SHA1-Digest: ehNiCVPyCioSICkzZfSgFdrnrOw=
+
+Name: net/minecraft/network/packet/RespawnPacket.class
+SHA1-Digest: usQpGqhzAy14ECBWqiWbY/QQLn0=
+
+Name: net/minecraft/client/gamemode/SurvivalMode.class
+SHA1-Digest: fpnTTiqBnmU3BZC0oAd9gHY1KHw=
+
+Name: com/jcraft/jorbis/Floor1$LookFloor1.class
+SHA1-Digest: eRowbvhwB5nmdHSN5F+/fymMrCc=
+
+Name: mob/ghast.png
+SHA1-Digest: Kg/wZUMXUxGCJnkXChRHVFNnm7A=
+
+Name: com/mojang/nbt/ByteArrayTag.class
+SHA1-Digest: mPInwyyxVGgrdffIH4SBpj72uJc=
+
+Name: net/minecraft/world/level/levelgen/synth/FastNoise.class
+SHA1-Digest: PyltOyhV58pVEYJFdCW0DybKE0s=
+
+Name: net/minecraft/world/item/SeedItem.class
+SHA1-Digest: lKpiaEnWXcjUEcc52NV/0tfEZ9Q=
+
+Name: net/minecraft/client/gui/PauseScreen.class
+SHA1-Digest: ExQteY7gyvFKEcZuwZKU5LzBOvM=
+
+Name: net/minecraft/client/sound/CodecMus.class
+SHA1-Digest: nJNiaf6qVX9YyuSZ3Lq30PBm8/8=
+
+Name: title/mojang.png
+SHA1-Digest: pQbQDV01FaK9+imk92OcVF9Q3dk=
+
+Name: net/minecraft/client/gui/inventory/AbstractContainerScreen.class
+SHA1-Digest: AfQyZPRDDCaGAOlVEhsfA0F97uQ=
+
+Name: net/minecraft/world/entity/monster/Creeper.class
+SHA1-Digest: 4otc23FW+IG/pMvYKkKi22MaCk8=
+
+Name: net/minecraft/client/renderer/entity/MobRenderer.class
+SHA1-Digest: CeDan3DjR8h5fWfZL/+R8Uw/Iqc=
+
+Name: terrain.png
+SHA1-Digest: 3dfh+KEbX7U1VXD0/3/175VLL1I=
+
+Name: net/minecraft/client/Minecraft$3.class
+SHA1-Digest: 5Ss6PDlPSHc7OJnxYUoHWeQNPbk=
+
+Name: net/minecraft/network/Connection$3.class
+SHA1-Digest: Qsc1EQq2aLeJyT9J4iCNHKBab1A=
+
+Name: net/minecraft/client/sound/CodecMus$DecoderInputStream.class
+SHA1-Digest: /2EA/7KWQwOKe3JWhJThncQQwec=
+
+Name: net/minecraft/world/level/ChunkPos.class
+SHA1-Digest: BmnW2UyCScZQbLmJoZCFM5c6CqQ=
+
+Name: misc/foliagecolor.png
+SHA1-Digest: r/Mg6ekb7YgwpC8/g/ZtBQInH8Y=
+
+Name: net/minecraft/world/level/biome/HellBiome.class
+SHA1-Digest: O9Y6YRBFeQmfxHdpwSnnVKP+jc8=
+
+Name: net/minecraft/world/level/levelgen/feature/LightGemFeature.class
+SHA1-Digest: UOA9OynnX13Bq1qsFMvlCCRnGCY=
+
+Name: net/minecraft/client/renderer/HttpTextureProcessor.class
+SHA1-Digest: OaPurMlDbFfp68psiH2XwixXYkc=
+
+Name: net/minecraft/world/level/Coord.class
+SHA1-Digest: PjBlJUre1c4LkSUlB/KKP+4sVJQ=
+
+Name: net/minecraft/world/item/SnowballItem.class
+SHA1-Digest: YeTc7B1JiVuU+bdrtt3jJx8wEQk=
+
+Name: armor/chain_2.png
+SHA1-Digest: o82RYls52TnsQgTA0mgK+e6bfCo=
+
+Name: net/minecraft/world/level/tile/HalfTransparentTile.class
+SHA1-Digest: 0hJxk8e20FgzIBwDpKJUZNjqcFE=
+
+Name: net/minecraft/world/level/tile/Bush.class
+SHA1-Digest: AgUByEi/lv6UZNPWFG277SBHUnk=
+
+Name: mob/pigman.png
+SHA1-Digest: yj4LOL0vmF89g1ekVJFYZUqdI74=
+
+Name: net/minecraft/world/entity/SynchedEntityData.class
+SHA1-Digest: SJqTCVm9VCOE+6Sq2glIBAZFsG4=
+
+Name: net/minecraft/network/packet/MovePlayerPacket$PosRot.class
+SHA1-Digest: QUpPDk7GmtrB/B8L3I531n9Pyyw=
+
+Name: net/minecraft/client/renderer/tileentity/TileEntityRenderDispatc
+ her.class
+SHA1-Digest: drDiBEBHEG43yZpmVwK94Q2kP9E=
+
+Name: paulscode/sound/CommandThread.class
+SHA1-Digest: VWi7ftCAMDfo7au4OQVNlPaN0i8=
+
+Name: net/minecraft/world/phys/AABB.class
+SHA1-Digest: P6l6PhDV2fbTGI9nTd3ayAE50qk=
+
+Name: net/minecraft/client/renderer/Textures.class
+SHA1-Digest: H/Titc9dR53Tm6qL/F4cHjv4xsI=
+
+Name: net/minecraft/world/item/CoalItem.class
+SHA1-Digest: FInaURBIOP9xCbp7tpYm8xdWarU=
+
+Name: net/minecraft/network/packet/SetCarriedItemPacket.class
+SHA1-Digest: C9zjiKExdWHmQvZkU5saOsOtY1o=
+
+Name: net/minecraft/client/model/SignModel.class
+SHA1-Digest: dQELGuX+05emj5CL/6NqG5S2HKA=
+
+Name: net/minecraft/client/model/SlimeModel.class
+SHA1-Digest: g2xVBD4gQgxPowN8bFLhi7H+n88=
+
+Name: net/minecraft/isom/IsomPreview.class
+SHA1-Digest: mzyVUrT4i91Q3mskLaQ9N58I5ok=
+
+Name: net/minecraft/client/particle/PortalParticle.class
+SHA1-Digest: vrfD9nG0Y/2IeXRCXvDXxy8+K3o=
+
+Name: net/minecraft/world/level/tile/SandStoneTile.class
+SHA1-Digest: nFBt5gVy0OuqXW9NDuHV2qaMVBQ=
+
+Name: net/minecraft/world/item/crafting/ClothDyeRecipes.class
+SHA1-Digest: hgcMploCwyd2kU7AiRyynOmp9DE=
+
+Name: armor/diamond_2.png
+SHA1-Digest: kT7xzmEkk35t40yRefv8ZLtnrwM=
+
+Name: armor/cloth_1.png
+SHA1-Digest: qPyk7hlFpOIH4G+JjuhBwvgXLjw=
+
+Name: net/minecraft/client/renderer/entity/DefaultRenderer.class
+SHA1-Digest: 0wOFuh3uWxV4qfv8v8rfXrKqIAU=
+
+Name: net/minecraft/network/Connection$4.class
+SHA1-Digest: h22s3zgUGgXPWs8CPsBJpclTWb0=
+
+Name: net/minecraft/world/level/levelgen/LargeHellCaveFeature.class
+SHA1-Digest: kF8Y6hY9iDJmci22fjxlRB19KQk=
+
+Name: net/minecraft/isom/IsomPreview$1.class
+SHA1-Digest: TxUPqJXdcmftDWEcc1E3JjIuUbU=
+
+Name: net/minecraft/client/model/Cube.class
+SHA1-Digest: B+IljFcqdOtkJd1DY0En2pz/lnM=
+
+Name: net/minecraft/world/item/ClothTileItem.class
+SHA1-Digest: BfF327pUUTGdjSQ0EH4yLtHn5MA=
+
+Name: armor/iron_1.png
+SHA1-Digest: cTTpRCYFt3TCDAyDWDcuKuOCdF8=
+
+Name: net/minecraft/network/packet/ExplodePacket.class
+SHA1-Digest: Y9H93wYBHTGblKidkMx5II9lJos=
+
+Name: net/minecraft/client/Timer.class
+SHA1-Digest: tncq5ZysW6ITiCvWPC8WWxqDq5o=
+
+Name: net/minecraft/world/level/Region.class
+SHA1-Digest: +v4XX3ssGpI/VEa1TTrMS9vPoHY=
+
+Name: net/minecraft/client/map/Map.class
+SHA1-Digest: cqdf+PODfWO1n+TVV/MU3hrAS7w=
+
+Name: net/minecraft/world/level/chunk/storage/OldChunkStorage.class
+SHA1-Digest: 4Ctpo3BxQT8v1kRUSW20Q9D4BuI=
+
+Name: com/jcraft/jogg/SyncState.class
+SHA1-Digest: q2APnLDYlumMzxQKaoOZhKvA/sw=
+
+Name: net/minecraft/client/particle/WaterDropParticle.class
+SHA1-Digest: szOrqNNMebnKD3cb4dPoFE/VlgE=
+
+Name: com/jcraft/jorbis/PsyLook.class
+SHA1-Digest: irxLYpBHjRitcE8TjCslUOpdJEc=
+
+Name: net/minecraft/network/packet/AddPlayerPacket.class
+SHA1-Digest: GnbWRrbCJ2jcYtL5OkP+a0G3mOo=
+
+Name: mob/sheep_fur.png
+SHA1-Digest: 6cwQ8RybUwyf2yHSclgK9ArVk30=
+
+Name: paulscode/sound/SimpleThread$1.class
+SHA1-Digest: zFLJ2mk1KT/8xD7Idz3dratjpn0=
+
+Name: net/minecraft/client/Minecraft$OS.class
+SHA1-Digest: 8RM/DwiN5JoNQ/ZMqLnMohDSDh4=
+
+Name: paulscode/sound/libraries/SourceLWJGLOpenAL.class
+SHA1-Digest: BdZo6YWT6MF5a9W6KxN+ISmeEKA=
+
+Name: net/minecraft/world/level/tile/RedStoneDustTile.class
+SHA1-Digest: yDkY2Sw9Zl2qZPI5iVEgFTv8Kao=
+
+Name: net/minecraft/client/renderer/ptexture/LavaSideTexture.class
+SHA1-Digest: N+LNeaMKrUOsCNI4GeXX35O5P5k=
+
+Name: net/minecraft/world/level/levelgen/feature/Feature.class
+SHA1-Digest: lZn/n4ATcraxP2QeMl6NWy9N+YE=
+
+Name: net/minecraft/world/level/tile/entity/ChestTileEntity.class
+SHA1-Digest: TxNQGf3IlB2tUfpXKXhZz0kviq4=
+
+Name: net/minecraft/client/gui/inventory/FurnaceScreen.class
+SHA1-Digest: sXxNnH1q4DOENLOzq1c0tG2goLA=
+
+Name: net/minecraft/client/gui/inventory/InventoryScreen.class
+SHA1-Digest: AUcQq2bC1Rk2b6JTH9XkJvdquK8=
+
+Name: net/minecraft/client/renderer/entity/GiantMobRenderer.class
+SHA1-Digest: I1eJpKn8PDoSZl99C24Emptqo/E=
+
+Name: item/cart.png
+SHA1-Digest: NlDQYnDYCaLWzQCUXpgY9vohGtY=
+
+Name: net/minecraft/world/level/levelgen/synth/Synth.class
+SHA1-Digest: iTChNmhPUAy5qhuOysHhjadv1eU=
+
+Name: com/jcraft/jorbis/Floor1$EchstateFloor1.class
+SHA1-Digest: WVtk+EPiLq5RO5xxQuU0h/iKWNc=
+
+Name: net/minecraft/client/title/TitleScreen$LetterBlock.class
+SHA1-Digest: NjQMGI4YmxS04OctnkEEAg8Dwp8=
+
+Name: net/minecraft/client/Options$Option.class
+SHA1-Digest: GQV6DKflMlBhrqJ1hh8dCijAr2Y=
+
+Name: net/minecraft/world/level/LightLayer.class
+SHA1-Digest: OwTRMutJ7y9WjKMLa/wqqwTrllQ=
+
+Name: net/minecraft/world/entity/Creature.class
+SHA1-Digest: lUhwgRnF3//g6f7ESsfbjGTXFF8=
+
+Name: net/minecraft/client/renderer/entity/ItemRenderer.class
+SHA1-Digest: IRIWNVa02cRetGCKsy0q/cUwvpw=
+
+Name: net/minecraft/world/level/tile/Tile$SoundType.class
+SHA1-Digest: /KBv9DaNLjn8mFXj6gcvmz7cHA0=
+
+Name: misc/grasscolor.png
+SHA1-Digest: mmHb507u61NUcRHOvjkoDfMGhS8=
+
+Name: net/minecraft/network/packet/MoveEntityPacket$PosRot.class
+SHA1-Digest: JDVANkvjz0Fb34GWqYEJolqv18I=
+
+Name: com/jcraft/jorbis/Lsp.class
+SHA1-Digest: VjWRbuzIA7EupbQxKLLfASd/IUE=
+
+Name: net/minecraft/world/level/tile/entity/DispenserTileEntity.class
+SHA1-Digest: iK7V7z/BlWRRUj4/uYs55rA3Tzo=
+
+Name: net/minecraft/world/item/crafting/OreRecipies.class
+SHA1-Digest: Uc4YvkyLDuLb9q3g9LmHAeCldKA=
+
+Name: net/minecraft/client/particle/RedDustParticle.class
+SHA1-Digest: FPpadiByhToK75d9++sJWOr9OHo=
+
+Name: net/minecraft/client/Options.class
+SHA1-Digest: KVozOhKURlS4yWgqUTgFw3uj1aE=
+
+Name: net/minecraft/world/inventory/CraftingContainer.class
+SHA1-Digest: 1czI/cB7ClngkmuALWEsPgOmHvg=
+
+Name: net/minecraft/client/gamemode/GameMode.class
+SHA1-Digest: +gD5cXjfTCp/LSh01kPy5djv3k4=
+
+Name: net/minecraft/world/entity/animal/Chicken.class
+SHA1-Digest: 6NeotZNll5vuCohf71lyimSz8DI=
+
+Name: net/minecraft/client/renderer/DistanceChunkSorter.class
+SHA1-Digest: hToHArCvTaorm/acm6feXv4nJIg=
+
+Name: net/minecraft/world/phys/HitResult$Type.class
+SHA1-Digest: fScaYuQVD6UEtuDNYxqvSFuaz3w=
+
+Name: net/minecraft/world/level/tile/TreeTile.class
+SHA1-Digest: IT0x1AOh7jRD5457WkldM/0Gxcs=
+
+Name: net/minecraft/client/renderer/culling/AllowAllCuller.class
+SHA1-Digest: 0fIvkay8wtNVkcPWg75iLPKboa4=
+
+Name: net/minecraft/world/level/tile/PumpkinTile.class
+SHA1-Digest: z4vmOZ9iJLKNboPGb+7UihYJgJU=
+
+Name: net/minecraft/world/level/tile/TopSnowTile.class
+SHA1-Digest: ZVSOHzP7yRPp6qH3vWNaQoKqJdY=
+
+Name: net/minecraft/client/OpenGLCapabilities.class
+SHA1-Digest: 6N7XgX5ERRfFHrMtKF/J//YxjfM=
+
+Name: net/minecraft/client/renderer/ptexture/FireTexture.class
+SHA1-Digest: j1Raqy431IFtgFtUyP7oG+6hiWo=
+
+Name: util/LongHashMap.class
+SHA1-Digest: IwaJvebYTGHpP/nduxGmLzsghyI=
+
+Name: net/minecraft/client/gui/ConfirmScreen.class
+SHA1-Digest: wi7/4aye4WNGJTTiDbPe/G4CkXM=
+
+Name: net/minecraft/client/particle/SmokeParticle.class
+SHA1-Digest: QTc72v4ClLdp9h8fd9jOnn59+I8=
+
+Name: net/minecraft/world/entity/player/Player.class
+SHA1-Digest: J3x/f6u6epqMDnYoHBXHbKUY/zw=
+
+Name: net/minecraft/client/renderer/entity/FireballRenderer.class
+SHA1-Digest: REUUp77xliLK51tGbzKAafZB7RE=
+
+Name: net/minecraft/world/entity/animal/Squid.class
+SHA1-Digest: jq0sD77qeqc6i6nEQxytk6JScJc=
+
+Name: net/minecraft/world/level/tile/BookshelfTile.class
+SHA1-Digest: kd7DeDQyomq1F7iAGO08sQMXxPU=
+
+Name: paulscode/sound/MidiChannel$FadeThread.class
+SHA1-Digest: oht6VBL5hGg3+DLDhBrljnBNBOk=
+
+Name: net/minecraft/world/level/tile/entity/MusicTileEntity.class
+SHA1-Digest: h5RFYd9we2zD4Z/0GoCHEqKyLec=
+
+Name: net/minecraft/client/gui/GuiComponent.class
+SHA1-Digest: R1TpF6thuIvWNqqkwaDLM7XE/54=
+
+Name: net/minecraft/world/level/levelgen/feature/LakeFeature.class
+SHA1-Digest: v1PnEbcf1gudcKDEaSr3pjXruTQ=
+
+Name: net/minecraft/world/inventory/FurnaceMenu.class
+SHA1-Digest: KFmpcRL0kJczrbU/0lUL7mUEO0w=
+
+Name: net/minecraft/client/renderer/ptexture/WaterTexture.class
+SHA1-Digest: refwpAHlLz8aYRp5/6dmsIjNRpQ=
+
+Name: net/minecraft/world/level/tile/Tile.class
+SHA1-Digest: bOTSmxWQ7VPQWxdU++5lZOYl+Mk=
+
+Name: gui/trap.png
+SHA1-Digest: Q4VsqhEU8Yo/y64zcS487fFE6dM=
+
+Name: net/minecraft/client/multiplayer/MultiPlayerChunkCache$ChunkPos.
+ class
+SHA1-Digest: XDDscqosZEJphFsJfo7kHI7NAaQ=
+
+Name: net/minecraft/network/packet/SetEquippedItemPacket.class
+SHA1-Digest: VUxAuSg24C9Ks8Zluh8tnxFLmPI=
+
+Name: paulscode/sound/codecs/CodecWav.class
+SHA1-Digest: bmvW8kwlF2/IUv7KrdwrQq1HjDI=
+
+Name: net/minecraft/world/item/crafting/ToolRecipies.class
+SHA1-Digest: nSiWaYsmoG2+S4r8o3e+NDMnfMc=
+
+Name: mob/cow.png
+SHA1-Digest: UOA8ELNnAcU4iQiDpuSj8rVv7PU=
+
+Name: gui/crafting.png
+SHA1-Digest: 8TJ2Be84ftY/6oE+S5aRfa6Z7CY=
+
+Name: net/minecraft/world/level/chunk/ReadOnlyChunkCache.class
+SHA1-Digest: AeHIMxMe01jUj7zrqVxiuQ0V3TI=
+
+Name: net/minecraft/world/entity/SynchedEntityData$DataItem.class
+SHA1-Digest: tCNmIunJF1duC76TB6ZBAwlngAM=
+
+Name: net/minecraft/client/multiplayer/ConnectScreen$1.class
+SHA1-Digest: NNLmjR76cHv5DaZU/RT7t5CxJRE=
+
+Name: net/minecraft/world/entity/monster/Enemy.class
+SHA1-Digest: pQj1dkCdY9XlJTgpQhZeG+kQy1I=
+
+Name: mob/pig.png
+SHA1-Digest: V48hcqRI4LD2yLy6gi9TWuKCOB8=
+
+Name: com/jcraft/jorbis/FuncMapping.class
+SHA1-Digest: YxLLeXY7YZucEZf1OqeAhH7D4Ec=
+
+Name: net/minecraft/world/level/chunk/ChunkCache.class
+SHA1-Digest: zTmkGxaRkXJT1AiSMggYlDrSz5c=
+
+Name: net/minecraft/client/particle/ExplodeParticle.class
+SHA1-Digest: RbRHIm70K9uj8g+Cvpda6aV9poE=
+
+Name: net/minecraft/network/packet/MovePlayerPacket.class
+SHA1-Digest: fZa1aA5D2m66i7ciGTg97QuAmFY=
+
+Name: com/jcraft/jogg/Page.class
+SHA1-Digest: laM0m4pnvWVMangU+uI+Lznku2g=
+
+Name: net/minecraft/client/renderer/GameRenderer.class
+SHA1-Digest: yOWoUwY9WqbYeWxbVsXbrvFxtR8=
+
+Name: net/minecraft/network/packet/AddPaintingPacket.class
+SHA1-Digest: QTfi8eesJk8pXDar07KS5j7bf+M=
+
+Name: net/minecraft/client/multiplayer/MultiPlayerGameMode.class
+SHA1-Digest: MAxBGycGTJ/KZNVeElq26LgitWI=
+
+Name: net/minecraft/client/renderer/entity/HumanoidMobRenderer.class
+SHA1-Digest: 9SaaWGnyTmdlQSmpRRqokXvRaj4=
+
+Name: net/minecraft/network/packet/SetHealthPacket.class
+SHA1-Digest: RCK7HZc8qXZKHKW+n1AtzzdeQlo=
+
+Name: net/minecraft/world/level/levelgen/feature/PineFeature.class
+SHA1-Digest: rkScF5diosoBHnQNViiDLDSh2G8=
+
+Name: net/minecraft/world/item/BoatItem.class
+SHA1-Digest: us5391xE5ItFOs+4AsYD5ncKknE=
+
+Name: net/minecraft/world/level/pathfinder/Path.class
+SHA1-Digest: sJS9YH0Mter8D0ymSByWMEPdc2g=
+
+Name: net/minecraft/world/item/crafting/Recipes$1.class
+SHA1-Digest: US2UqvDrouf29VK/1HHIOPWJnrY=
+
+Name: net/minecraft/world/item/WeaponItem.class
+SHA1-Digest: Lcro/AfTaXOkaUq1lOrIOg3EELY=
+
+Name: net/minecraft/world/level/tile/FenceTile.class
+SHA1-Digest: LxwxxlQuND+lRUySAV8R+wbxliU=
+
+Name: net/minecraft/client/renderer/culling/Culler.class
+SHA1-Digest: i4T3FBC83qp3Wx7Nsno/nRXd7/M=
+
+Name: net/minecraft/client/gui/Screen.class
+SHA1-Digest: fg1vuXxImJlF46V8h/68iS0LarI=
+
+Name: net/minecraft/client/renderer/entity/TntRenderer.class
+SHA1-Digest: mR2BTQ/+ZUFwiz63Q8k3J8d0yiI=
+
+Name: net/minecraft/world/ContainerListener.class
+SHA1-Digest: tGhDpL64TiV47YL7F7ehzZscty4=
+
+Name: net/minecraft/world/phys/HitResult.class
+SHA1-Digest: 5WTI6F2it4nNqiaH62CY37ya/Fk=
+
+Name: net/minecraft/client/map/Map$1.class
+SHA1-Digest: A5oO7sQHp3fowbcr8CJ2kZ/EFlM=
+
+Name: net/minecraft/client/particle/SplashParticle.class
+SHA1-Digest: v3s5ILVQmZBIXr59bxos93FDR6U=
+
+Name: net/minecraft/client/multiplayer/ClientConnection.class
+SHA1-Digest: GXHxqcmoUqBmNDayhdRddRVSYtY=
+
+Name: net/minecraft/network/packet/SetEntityDataPacket.class
+SHA1-Digest: otp0tpqx9vRK8xY/CWxv3tLNalg=
+
+Name: net/minecraft/world/level/dimension/Dimension.class
+SHA1-Digest: P7x5K/J/Ljc/MNjEGD7plTAUPtU=
+
+Name: net/minecraft/world/item/RedStoneItem.class
+SHA1-Digest: WjJfOsfQrSYdycrnWpUpynhRyfs=
+
+Name: net/minecraft/world/item/ArmorItem.class
+SHA1-Digest: espZVxLkbSMrcrOmA8bdZ9NUEzY=
+
+Name: net/minecraft/world/inventory/ContainerMenu.class
+SHA1-Digest: wspaqdV5leY5E0D9DPINWuk1f9k=
+
+Name: net/minecraft/client/gamemode/SecretBuilder.class
+SHA1-Digest: C6BBvcXM6xbooJ/YdLiiSBcWiP0=
+
+Name: net/minecraft/client/multiplayer/ConnectScreen.class
+SHA1-Digest: 5dYZm4hOe3gNczVvuO6dtO+q6pY=
+
+Name: net/minecraft/world/level/biome/SwampBiome.class
+SHA1-Digest: rcYISpV39gFMPv060WULV42H2EM=
+
+Name: net/minecraft/client/renderer/entity/ArrowRenderer.class
+SHA1-Digest: LVTN/AqmNbluszxKfizrsLwJR2E=
+
+Name: net/minecraft/world/level/levelgen/TownFeature.class
+SHA1-Digest: a2eYjiDMqldR1EznnGoZUjLep00=
+
+Name: net/minecraft/world/level/tile/PortalTile.class
+SHA1-Digest: vQQ9194iLe5S1yujgr7RKIwU+QQ=
+
+Name: net/minecraft/world/level/tile/DoorTile.class
+SHA1-Digest: kvYVEXY67O+/dV7+/rfJ6YPFsfA=
+
+Name: net/minecraft/world/level/levelgen/feature/ReedsFeature.class
+SHA1-Digest: 7TZ8nkDyX8i0siDB2ctXLKJFEuA=
+
+Name: net/minecraft/network/packet/EntityEventPacket.class
+SHA1-Digest: LW9L7Y5lpTQofUGgvgNyRxiN5XA=
+
+Name: title/splashes.txt
+SHA1-Digest: G3MjTeh76ggrYrt+8n67nkarj5g=
+
+Name: mob/skeleton.png
+SHA1-Digest: 3pt7XEpvzlc2/peM8zcFO0VKYT4=
+
+Name: net/minecraft/world/level/tile/RailTile.class
+SHA1-Digest: pzBLnQ2EKxjyB9rLfNiImiCLpIE=
+
+Name: gui/items.png
+SHA1-Digest: oZ8mYwGJcGoHsxXcwOX/pL21wbM=
+
+Name: net/minecraft/world/level/biome/BiomeSource.class
+SHA1-Digest: oUwK0NsIv4iWQD5nBGNrylsZ+SA=
+
+Name: net/minecraft/network/packet/SetSpawnPositionPacket.class
+SHA1-Digest: tvoqTr9EVMFjjmeNPAHz5TYvsSU=
+
+Name: net/minecraft/world/level/chunk/storage/ZoneFile.class
+SHA1-Digest: LGg97CAnEpNTXsB08Vl9E/kXe7g=
+
+Name: com/mojang/nbt/Tag.class
+SHA1-Digest: JnZ3G4q2NvAd9BqvZ0QreWY6Itk=
+
+Name: com/jcraft/jorbis/DspState.class
+SHA1-Digest: oU/7Q17/wMgtLF+JuYDtzwqd/bU=
+
+Name: net/minecraft/world/level/levelgen/HellRandomLevelSource.class
+SHA1-Digest: JYSUPFX/NYFE0DkcRLxAPS/3ksw=
+
+Name: armor/gold_1.png
+SHA1-Digest: l+li03RiLjA7BP6eKgq0nSRvEi8=
+
+Name: net/minecraft/network/packet/TeleportEntityPacket.class
+SHA1-Digest: 0aVePCCqYPRfjqrAOYSe5vHq1cQ=
+
+Name: net/minecraft/client/gamemode/secret/Schematic.class
+SHA1-Digest: cmh5J6Cn/kzuozZNOz5ARAm3urY=
+
+Name: net/minecraft/world/entity/item/FallingTile.class
+SHA1-Digest: FBgGaOSeDAmQTumcqs7mKd2TwXw=
+
+Name: com/mojang/nbt/DoubleTag.class
+SHA1-Digest: 8ueUUxBI33SEKLIL1oTXABqr40I=
+
+Name: net/minecraft/client/particle/BreakingItemParticle.class
+SHA1-Digest: uqt8LE1rO+AcXybvLPejOcubq4w=
+
+Name: net/minecraft/world/level/tile/TorchTile.class
+SHA1-Digest: xIpLuFh6l9pKzlXacXE5q1dLlic=
+
+Name: net/minecraft/world/item/RecordingItem.class
+SHA1-Digest: ZaykZUSidISvN8vOEgqzV78Onio=
+
+Name: mob/sheep.png
+SHA1-Digest: rqiKnjtsXva+IZaNQdjryUJkaKk=
+
+Name: net/minecraft/world/level/tile/WorkbenchTile.class
+SHA1-Digest: SC4K63cq0V3XBN4utfU/sXxF6mc=
+
+Name: com/jcraft/jogg/Packet.class
+SHA1-Digest: n6kW0b+axsOHgmMi4VT8TtNQy00=
+
+Name: gui/furnace.png
+SHA1-Digest: VtRb3N+F8S29VcKuKlIWzmV2Wso=
+
+Name: net/minecraft/network/packet/BlockRegionUpdatePacket.class
+SHA1-Digest: q4ppwO++YJ6DcATRr2qyz4gfLWo=
+
+Name: com/jcraft/jogg/StreamState.class
+SHA1-Digest: +O6Fm7K7Ra800K8WzkdVaLA31ds=
+
+Name: com/jcraft/jorbis/Mdct.class
+SHA1-Digest: f7/ZgjCWczsPvNBj8zC8mqqcpv4=
+
+Name: net/minecraft/world/level/levelgen/feature/ClayFeature.class
+SHA1-Digest: dnyl3m0htZiXU1u6qJDb0sZkoBA=
+
+Name: net/minecraft/world/entity/Mob.class
+SHA1-Digest: FbbjDBM5t701MiWqmzpCaPIwJsA=
+
+Name: net/minecraft/isom/ZoneRenderer.class
+SHA1-Digest: oxhy5E4H+uv/O749ql1x4GXV3VQ=
+
+Name: item/door.png
+SHA1-Digest: lrKBtBuckAXWFbCkE6q5cR4vgVk=
+
+Name: net/minecraft/world/entity/animal/Pig.class
+SHA1-Digest: fVQjkkPM8AYuRh80GWA/St+PaMA=
+
+Name: net/minecraft/world/level/tile/LiquidTileStatic.class
+SHA1-Digest: 48DezVEUy0KcP6qje4Aod2ZNdbE=
+
+Name: net/minecraft/world/level/PortalForcer.class
+SHA1-Digest: 1gqIkHMoTFxMO4659pkAi775EO0=
+
+Name: net/minecraft/world/item/crafting/ShapelessRecipy.class
+SHA1-Digest: oMx6/6iwuXgzef0XzEFiepb1jZs=
+
+Name: net/minecraft/client/map/Map$2.class
+SHA1-Digest: D4vRPgUJqBrYUFZvQK7lMQC47ZQ=
+
+Name: net/minecraft/world/level/levelgen/feature/BirchFeature.class
+SHA1-Digest: 71P8DswiYwkJq8jDeg7/+0T7aRA=
+
+Name: net/minecraft/world/SimpleContainer.class
+SHA1-Digest: wDfDlmUnSj8H9iBzre9WgigZsYs=
+
+Name: net/minecraft/world/inventory/ResultContainer.class
+SHA1-Digest: mjaGIreKDF+wD08hBpGCrvgWAU0=
+
+Name: net/minecraft/client/model/Polygon.class
+SHA1-Digest: /H0vDxpQvTnS5rh97MN3jjF6r8Q=
+
+Name: net/minecraft/client/renderer/entity/CreeperRenderer.class
+SHA1-Digest: ULWLzY6jIxMsWnocfRSE/tDOehI=
+
+Name: net/minecraft/network/packet/SetTimePacket.class
+SHA1-Digest: mUSYoRaIkFgQXickmLw7SHIgYVY=
+
+Name: paulscode/sound/SoundSystemConfig.class
+SHA1-Digest: KUQFsCHgqnf+5hXum/afsNctk1s=
+
+Name: net/minecraft/world/level/material/GasMaterial.class
+SHA1-Digest: lW+BNzbMhmnFNvzejPvAZc3VJ4s=
+
+Name: net/minecraft/world/level/levelgen/feature/HouseFeature.class
+SHA1-Digest: YKLnw3H0HduHiyLNEgrlb05tVVs=
+
+Name: net/minecraft/world/item/FoodItem.class
+SHA1-Digest: UQwk+ivsf+ZflvQg7rRRVaKJgnw=
+
+Name: com/jcraft/jorbis/FuncFloor.class
+SHA1-Digest: TVDEdeex32mUV6YW64xI9Hwwhf8=
+
+Name: com/jcraft/jorbis/Floor0$EchstateFloor0.class
+SHA1-Digest: oInmo1debRthBGqF/5SYkcGp8xU=
+
+Name: com/mojang/nbt/EndTag.class
+SHA1-Digest: LTvsNhLrOHjHIj6+B+T6t7lTI3A=
+
+Name: net/minecraft/world/level/tile/entity/MobSpawnerTileEntity.class
+SHA1-Digest: uDA7+V5/H9wfOiSKVdnaPQf79tE=
+
+Name: com/jcraft/jorbis/Mapping0$LookMapping0.class
+SHA1-Digest: 6gj1RDbQSDxzdQWRKQI1WvyY+uc=
+
+Name: net/minecraft/network/packet/AddMobPacket.class
+SHA1-Digest: OiP1GLQ3QkEF99Zoyv2PTzNYSTI=
+
+Name: net/minecraft/world/inventory/InventoryMenu$1.class
+SHA1-Digest: mb9TQhcm7fk2aZMQfUcg1wESPcs=
+
+Name: net/minecraft/client/player/KeyboardInput.class
+SHA1-Digest: hyHjGyPzIBswg2M1dhnMiOsuRV8=
+
+Name: net/minecraft/network/Connection$2.class
+SHA1-Digest: 0bYgj5l7OgdAgq5NS3ODIBMKc6s=
+
+Name: net/minecraft/world/entity/Painting.class
+SHA1-Digest: MvRS7hzXHjHn96KYKiKKCelpKeY=
+
+Name: net/minecraft/world/item/Item.class
+SHA1-Digest: Dvw3XxJDCDSacJlbyfJ+UJEIMVY=
+
+Name: net/minecraft/world/phys/Vec3.class
+SHA1-Digest: ttIRE4ygJlXIG5ajVV5HUFCAHEU=
+
+Name: net/minecraft/world/level/levelgen/synth/ImprovedNoise.class
+SHA1-Digest: jaNH3dl7KDYHRi1wtEfEGg2Yjhc=
+
+Name: net/minecraft/world/entity/player/Inventory.class
+SHA1-Digest: 4l5v1JAjh+aOm9cpFU+1K1nEuq8=
+
+Name: net/minecraft/client/gui/Font.class
+SHA1-Digest: QpyXtzrsGinkjy9dTPoF9Y07CRg=
+
+Name: Encoder.class
+SHA1-Digest: AVmWGp/3q9pxoCR2uk9XEaMOXDE=
+
+Name: net/minecraft/world/item/TreeTileItem.class
+SHA1-Digest: Ul+gzm2oLO1l4D6DnzMmDDankoI=
+
+Name: net/minecraft/world/entity/projectile/Fireball.class
+SHA1-Digest: itIk73WC3VTtx0ckv/ZAinOviSo=
+
+Name: net/minecraft/client/particle/LavaParticle.class
+SHA1-Digest: j/iU8dEJ3t2Djo7Xy1qNt3GRfm8=
+
+Name: net/minecraft/world/level/tile/StoneTile.class
+SHA1-Digest: mvIbqJE/tcJag1u+ctDd1tia+FE=
+
+Name: net/minecraft/client/renderer/tileentity/MobSpawnerRenderer.clas
+ s
+SHA1-Digest: ztnoPZgXImIhGw9/xa7vK101OGM=
+
+Name: net/minecraft/world/level/biome/FlatBiome.class
+SHA1-Digest: mH7t4qhr+MH7XdmUz5zUU47iOPI=
+
+Name: net/minecraft/world/item/BowItem.class
+SHA1-Digest: mCTQ0QXTUyXzEi4wx8KxHmmY8ro=
+
+Name: net/minecraft/world/level/LightUpdate.class
+SHA1-Digest: XVCY0mJuGM7hpTRU2tmdWLKFYJ4=
+
+Name: gui/unknown_pack.png
+SHA1-Digest: 7QMKZuoM9jhqqAwzjj2biS6BvAo=
+
+Name: paulscode/sound/libraries/ChannelJavaSound.class
+SHA1-Digest: ridYMSChBMS2Ga8/+dOvXCFSi54=
+
+Name: environment/snow.png
+SHA1-Digest: OGPUn5hch8shOOLZbcIJLBQgSNA=
+
+Name: paulscode/sound/SoundSystemException.class
+SHA1-Digest: VjyXNftLNFXjZ4SWsfONmDiUJ+o=
+
+Name: net/minecraft/client/renderer/TileRenderer.class
+SHA1-Digest: QTrpQLRSilYLsB8gzdZSPEBtBnw=
+
+Name: net/minecraft/world/level/levelgen/feature/CaveFeature.class
+SHA1-Digest: jzmfpGxitDXzHd/gEynk9RirWI4=
+
+Name: net/minecraft/network/packet/UseItemPacket.class
+SHA1-Digest: CupUqjQ1Pd4n+8VjdvcJJ5OH+RQ=
+
+Name: net/minecraft/world/level/pathfinder/PathFinder.class
+SHA1-Digest: zwzrpn4O92B96D0XK6N1YhfVSn4=
+
+Name: net/minecraft/client/model/SquidModel.class
+SHA1-Digest: spwRuVLUZNRWZsQknMN5trjDKnI=
+
+Name: net/minecraft/world/level/tile/EntityTile.class
+SHA1-Digest: bYMmADxSUMInaVUrASMNRGqeFVI=
+
+Name: net/minecraft/world/entity/EntityEvent.class
+SHA1-Digest: XW9eOMfcoTJdtXT/ICdXSeLPSMQ=
+
+Name: util/IntHashMap$Entry.class
+SHA1-Digest: ayd5ruBkd60iX22TYJ4BYr7I9pg=
+
+Name: com/jcraft/jorbis/FuncTime.class
+SHA1-Digest: e6fdzv8BSAGobTVxbd89e1RXUPw=
+
+Name: net/minecraft/network/packet/AddEntityPacket.class
+SHA1-Digest: 2YV4fElOSKRpz616/0q5EzVsylI=
+
+Name: net/minecraft/client/GuiMessage.class
+SHA1-Digest: 4Znv/FKG8akivDLsoP7IoYwt8hA=
+
+Name: net/minecraft/world/level/tile/ObsidianTile.class
+SHA1-Digest: L5s0uJDkNKlm0tRdKKZ2Kaj6iAY=
+
+Name: net/minecraft/client/particle/NoteParticle.class
+SHA1-Digest: xS4oA000NEaojtaVu6obgOnSFcE=
+
+Name: net/minecraft/client/gui/LevelConflictScreen.class
+SHA1-Digest: mKEOpgNOAB9I0I56ro9SCO8baU4=
+
+Name: net/minecraft/world/level/levelgen/synth/PerlinNoise.class
+SHA1-Digest: ANJT4BZvqAQm4NEXX9kSoF8XV7w=
+
+Name: paulscode/sound/StreamThread.class
+SHA1-Digest: ZYJtybshifKEuLXHdCp/PQ9QyUo=
+
+Name: net/minecraft/client/gui/inventory/ContainerScreen.class
+SHA1-Digest: zknHXnGC1WxaOCf4D+vb+WFlakY=
+
+Name: net/minecraft/world/item/HoeItem.class
+SHA1-Digest: 9B8k/vosfHdRvWG8p38RWXRRAC4=
+
+Name: net/minecraft/network/packet/TileUpdatePacket.class
+SHA1-Digest: 3X3698Vc/I5KGXcFlME6+Q/kShg=
+
+Name: net/minecraft/world/level/tile/SandTile.class
+SHA1-Digest: ue7EKbgdZzson6BGpbrHJ6LCfYw=
+
+Name: net/minecraft/client/gamemode/secret/BuilderInventory.class
+SHA1-Digest: ZzE4bADuaE2iyPDd4IwY+zRnjxY=
+
+Name: net/minecraft/world/entity/EntityIO.class
+SHA1-Digest: SQDezlzTowp1mned/rL/TsvsLcA=
+
+Name: net/minecraft/client/ProgressRenderer.class
+SHA1-Digest: XbAw8oN4Q3EQdS6ETQJVABQ3/9c=
+
+Name: item/sign.png
+SHA1-Digest: DpIepeRBc7gFPtk3qQw3Rl4u1JE=
+
+Name: net/minecraft/network/packet/ContainerSetDataPacket.class
+SHA1-Digest: n5mxSkdcYqmoob+B0SXJxa8UrQk=
+
+Name: paulscode/sound/libraries/SourceJavaSound.class
+SHA1-Digest: yU6mbp0DQFXcJqM27z+hamUD/Go=
+
+Name: paulscode/sound/codecs/CodecJOrbis.class
+SHA1-Digest: lHVvZmdzvl5IE9+Kl8LEZnSyd88=
+
+Name: terrain/sun.png
+SHA1-Digest: wLz+S2x4Wr6XIHIdyo5Jv4dTPIw=
+
+Name: net/minecraft/client/renderer/ptexture/DynamicTexture.class
+SHA1-Digest: tQZoEAL3pbYRDpQ4iEjW7Cd/Q7Q=
+
+Name: net/minecraft/isom/IsomPreview$OS.class
+SHA1-Digest: iUl1YGFja2+mOt1oBp24GaWe9u0=
+
+Name: environment/rain.png
+SHA1-Digest: jyvAPez7AFeHH3PDyIxGeoE9PGk=
+
+Name: armor/gold_2.png
+SHA1-Digest: vMsNeaaeai8J3wVArlXiGci7rIc=
+
+Name: net/minecraft/client/model/SpiderModel.class
+SHA1-Digest: mnYx5blJ9mwOIIXa27ajx+3tB3A=
+
+Name: net/minecraft/isom/IsomPreviewApplet.class
+SHA1-Digest: 9hIIAxg0NUNDBWWmew3wHwwy6gw=
+
+Name: armor/iron_2.png
+SHA1-Digest: C4f8PZXXCONaefuQifGBJDzX5DU=
+
+Name: com/mojang/nbt/NbtIo.class
+SHA1-Digest: lN91GCUXx9GlXKANUeyJyZj9mkM=
+
+Name: net/minecraft/world/entity/monster/Giant.class
+SHA1-Digest: pQDY966GJX14/uVQiS8sTsP+NlQ=
+
+Name: net/minecraft/client/renderer/entity/SpiderRenderer.class
+SHA1-Digest: CnkXGDGAGji++LOTZK3wF1i4EmY=
+
+Name: net/minecraft/world/level/tile/GrassTile.class
+SHA1-Digest: vJRZxULOEajciABhli85qvMhKTs=
+
+Name: net/minecraft/SharedConstants.class
+SHA1-Digest: R5kUPvxXEuip8rmcs/mDdYo1d78=
+
+Name: item/boat.png
+SHA1-Digest: mXMEqjLKM4Y9c/Tt6xHUyVDQzD8=
+
+Name: net/minecraft/client/player/RemotePlayer.class
+SHA1-Digest: qaAcFg16Na5fwJqH45hV/Gg279M=
+
+Name: net/minecraft/world/entity/animal/WaterAnimal.class
+SHA1-Digest: H8G3rdqV2Cao2mX0tr6oiiuuvb0=
+
+Name: paulscode/sound/libraries/LibraryJavaSound.class
+SHA1-Digest: BMyIkroo+E2HqTPAATkiMG/kJ2k=
+
+Name: net/minecraft/client/skins/FileTexturePack.class
+SHA1-Digest: S+mjTcRzui0m2Cb8roXlH4ysdGQ=
+
+Name: net/minecraft/world/level/tile/RailTile$Rail.class
+SHA1-Digest: GlcCRSFSLyRjFgQlnqqZ6tYJ2oE=
+
+Name: net/minecraft/world/entity/projectile/Snowball.class
+SHA1-Digest: w1mHwsdFQaENkiaPHfeCAF/wdv0=
+
+Name: net/minecraft/world/entity/FlyingMob.class
+SHA1-Digest: HmmfQ73wNXDIQhB5whsZz3Se7VM=
+
+Name: net/minecraft/world/level/tile/CropTile.class
+SHA1-Digest: VHnb0Y2iwpRX2Mjp5RD6xezXcSw=
+
+Name: net/minecraft/client/renderer/entity/CowRenderer.class
+SHA1-Digest: BZ4Vm6GGl7xEvTqYVH/nA9GxYQs=
+
+Name: net/minecraft/client/renderer/culling/ViewportCuller.class
+SHA1-Digest: 2eWfmDRVIyfEhJM7RqH6rAtEGqA=
+
+Name: net/minecraft/world/entity/PathfinderMob.class
+SHA1-Digest: 372i96D2OfSNrXvg+xO4IVzN0+o=
+
+Name: net/minecraft/client/Minecraft$2.class
+SHA1-Digest: nKrPlXazd+LybAW4dECKkDmtt6s=
+
+Name: net/minecraft/client/renderer/culling/FrustumCuller.class
+SHA1-Digest: Io2tvKMsn1mvrI5piuElF6ML56Y=
+
+Name: paulscode/sound/Channel.class
+SHA1-Digest: v4pKWDqXGwgsTg0S26dsy0CTYbg=
+
+Name: net/minecraft/world/level/tile/OreTile.class
+SHA1-Digest: 3qa+ydIqjr0T849MVguC9a6rkgc=
+
+Name: net/minecraft/world/item/PickaxeItem.class
+SHA1-Digest: YTgn1cjnrz7hm7Bl5Xhsac0dZ1M=
+
+Name: WorldGenProfiler.class
+SHA1-Digest: EvT9u6trDwSSuJs9/8EiAjg3+Vg=
+
+Name: net/minecraft/client/skins/TexturePackRepository.class
+SHA1-Digest: ua7yT+IZNr4zOrBQAfPeo3djxDM=
+
+Name: net/minecraft/world/level/chunk/ChunkSource.class
+SHA1-Digest: 0VBXabw1brbOGuU8UXftsGrVE84=
+
+Name: net/minecraft/network/packet/ContainerClosePacket.class
+SHA1-Digest: 5OY7gBw4ymvwSaJIghB6VScN9hc=
+
+Name: net/minecraft/world/level/levelgen/LargeFeature.class
+SHA1-Digest: 2d0x/mOetz7RU0p9D6jSejTRQpM=
+
+Name: net/minecraft/world/level/GrassColor.class
+SHA1-Digest: fC6+6OC+EltTZtNviXI4iS4829A=
+
+Name: net/minecraft/client/gui/ChatScreen.class
+SHA1-Digest: cKx/gJVTI71nkNCPiV1pWJW+G+w=
+
+Name: net/minecraft/world/inventory/ContainerListener.class
+SHA1-Digest: EEP2yO0Qb5PE9NZHhEqPdc/nQDk=
+
+Name: net/minecraft/world/level/tile/LiquidTile.class
+SHA1-Digest: suMJVrElQicti/TqTULe61Oke0o=
+
+Name: net/minecraft/client/gui/DeathScreen.class
+SHA1-Digest: QgUxE0akDzC04dq6JwvFdQYTpaI=
+
+Name: net/minecraft/world/inventory/CraftingMenu.class
+SHA1-Digest: rhMnQv9K0REfCsa7Af5n8Iw6yug=
+
+Name: net/minecraft/client/renderer/ptexture/CompassTexture.class
+SHA1-Digest: Q37X0DmJ+2LQac1gDk8qdgcnZKA=
+
+Name: net/minecraft/client/gamemode/secret/SecretBuilderInventory.clas
+ s
+SHA1-Digest: kriZIf+ftbwphm0I9nuMmhBLWQI=
+
+Name: net/minecraft/client/renderer/entity/FallingTileRenderer.class
+SHA1-Digest: iuwBYxhf1WglAbD2QaXQOZjdLpY=
+
+Name: paulscode/sound/SoundBuffer.class
+SHA1-Digest: uw1upjpVvB87ZCB4hXMumKuIXoY=
+
+Name: net/minecraft/world/level/levelgen/synth/Emboss.class
+SHA1-Digest: l+2GxMq1iT/vyJUhPlmXBucQ/ZA=
+
+Name: com/jcraft/jorbis/Lpc.class
+SHA1-Digest: bvVTWMGLwhwugiyU/QlnhnDQiNA=
+
+Name: net/minecraft/world/item/DiggerItem.class
+SHA1-Digest: PkS58grAiSBn3zbe0lVefMqTqcM=
+
+Name: net/minecraft/client/gui/ScreenSizeCalculator.class
+SHA1-Digest: EqMVJjyUx6OR/W5nSYgP+8+r+Oo=
+
+Name: net/minecraft/client/Options$1.class
+SHA1-Digest: Mno3M/9c27409f9bFgqqxiwyL/0=
+
+Name: net/minecraft/world/level/chunk/LevelChunk.class
+SHA1-Digest: EYHvj+BjEVTVJ2wPQJYYVwtYVic=
+
+Name: net/minecraft/network/packet/DisconnectPacket.class
+SHA1-Digest: k9MWDMFDewHnHkBhP3HQqkwrsgQ=
+
+Name: net/minecraft/network/packet/PlayerActionPacket.class
+SHA1-Digest: wYmeAmz/fkFYT8nK/nAXgYF+uf4=
+
+Name: net/minecraft/world/level/tile/Mushroom.class
+SHA1-Digest: dJTdBXwPA+9XTBpRP85DZiWzr6Q=
+
+Name: net/minecraft/client/renderer/ptexture/ClockTexture.class
+SHA1-Digest: jIluHnXBBaf2dhWuw+fuKqZWSWg=
+
+Name: com/jcraft/jorbis/CodeBook$DecodeAux.class
+SHA1-Digest: WksQo0D5kTrBIlPe9EQDF6akTHU=
+
+Name: com/jcraft/jorbis/Floor0.class
+SHA1-Digest: +IgLtsR+vL6en24hw885RQkRbPI=
+
+Name: net/minecraft/world/level/tile/entity/TileEntity.class
+SHA1-Digest: h9/QrFmRK/doAGt3GEoLx1eOOI0=
+
+Name: net/minecraft/client/Minecraft$4.class
+SHA1-Digest: VQ651YTDmBOhUJF+93wpuhWEOvs=
+
+Name: net/minecraft/world/level/tile/FurnaceTile.class
+SHA1-Digest: u/H3zMGB0Fy9Uz1jpWW/AQGn1ME=
+
+Name: net/minecraft/network/packet/PacketListener.class
+SHA1-Digest: 7glD9oYHz/PVgSbURZjnaJfafrw=
+
+Name: net/minecraft/world/level/Level.class
+SHA1-Digest: jpX6sW7595/8eLjGIfN/SS8OzLM=
+
+Name: net/minecraft/world/entity/MobCategory.class
+SHA1-Digest: il+YmWm4wbdaj0y9IXroRen8gRw=
+
+Name: net/minecraft/network/packet/MoveEntityPacket$Pos.class
+SHA1-Digest: yFabizTFk7ThoaVeeQaGP3vptjo=
+
+Name: net/minecraft/world/level/Explosion.class
+SHA1-Digest: 5mWiL3qiJqsUStQi/H6BhXeyKSo=
+
+Name: paulscode/sound/SoundSystemConfig$Codec.class
+SHA1-Digest: K4+cZ16WY2kEnaOb2SD6hv08Sbg=
+
+Name: net/minecraft/world/level/LevelListener.class
+SHA1-Digest: 9usbK2fwWRvzGjIiliGElZZK2zM=
+
+Name: net/minecraft/network/packet/Packet.class
+SHA1-Digest: 5zku1Ax+4pWibmws7zUowbAkjao=
+
+Name: net/minecraft/client/gamemode/secret/Builder.class
+SHA1-Digest: ISgfTOpND2Z4CTEQWGZrxUm2ujo=
+
+Name: net/minecraft/client/MemoryTracker.class
+SHA1-Digest: LrW0D+gCQGWAmWKrI2Gli93CwmY=
+
+Name: net/minecraft/client/model/BoatModel.class
+SHA1-Digest: qGZvbw2KSpQ23QlsyL69AJVBoZ4=
+
+Name: net/minecraft/client/particle/TakeAnimationParticle.class
+SHA1-Digest: ityyG5mldqpx13U+1JBcY3/qSj4=
+
+Name: net/minecraft/world/entity/animal/Cow.class
+SHA1-Digest: SuaZzaqtYH+YnuXAYpOMh+bdJjc=
+
+Name: com/mojang/nbt/LongTag.class
+SHA1-Digest: bORZl68mNwdhCHhs7FFlqkO+TgU=
+
